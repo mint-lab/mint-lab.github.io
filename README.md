@@ -1,5 +1,21 @@
-Steve's No-Good-Very-Bad Jekyll Theme
-=====================================
+## Mobile Intelligence Laboratory Homepage
+
+This is the homepage of [Mobile Intelligence Laboratory](https://mint-lab.github.io/) (so-called _MINT Lab_) in [SeoulTech](https://en.seoultech.ac.kr/), Korea.
+
+The homepage has forked from [Steve's No-Good-Very-Bad Jekyll Theme](svmiller/steve-ngvb-jekyll-template). The MINT Lab contents were added with little modification of the original theme. What I did are as follows:
+* Edit `_config.yml` and `_data/menu.yml`
+* Add my contents in Markdown at `mint-lab/*.md`
+* Remove unnecessary contents files for an example
+* Optional) Change main colors and style little bit
+
+I wish that my repository will be an useful example for you to use [Steve's No-Good-Very-Bad Jekyll Theme](svmiller/steve-ngvb-jekyll-template) for your homepage.
+
+The following is the original `README.md` of [Steve's No-Good-Very-Bad Jekyll Theme](svmiller/steve-ngvb-jekyll-template).
+
+
+
+---
+### Steve's No-Good-Very-Bad Jekyll Theme
 
 This is my custom Jekyll theme, which is basically [Joel Glovier](http://joelglovier.com/)'s `jekyll-new` theme smashed with [Alex King](http://www.alexking.org)'s [Favepersonal](https://crowdfavorite.com/favepersonal/) theme for Wordpress. I used Favepersonal for my Wordpress site before abandoning it. You can see my site at [svmiller.github.io](http://svmiller.github.io).
 
