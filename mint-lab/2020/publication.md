@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Publication before SeoulTech
+title : Publication before 2021
 permalink: /publication2020/
 ---
 
