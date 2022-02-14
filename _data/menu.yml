@@ -1,9 +1,6 @@
 - title: "Home"
   href : "/"
 
-- title: "Research Topics"
-  href : "/research/"
-
 - title: "Team"
   href : "/members/"
   subcategories:

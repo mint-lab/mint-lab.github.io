@@ -4,7 +4,7 @@ title :
 permalink: /sunglok/
 ---
 
-{% include image.html url="../mint-lab/members/sunglok.jpg" caption="Drawing by <i>Honaya</i>" width=160 align="right" %}
+{% include image.html url="../mint-lab/members/images/sunglok.jpg" caption="Drawing by <i>Honaya</i>" width=160 align="right" %}
 
 ## Sunglok Choi (최성록)
 
