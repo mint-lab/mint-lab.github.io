@@ -8,12 +8,14 @@ permalink: /members/
 * **[Choi, Sunglok](/sunglok/)** [[Github]](https://github.com/sunglok) [[Google Scholar]](https://scholar.google.com/citations?user=ckeePCMAAAAJ)
   * Assistant Professor (joined since March 2021)
   * Research Interests: Robot Navigation, 3D Computer Vision
-  * E-mail: <mailto:sunglok@seoultech.ac.kr>
+  * E-mail: <sunglok@seoultech.ac.kr>
 
 ## Graduate Students
-* **Choi, Joonhyeok**
+* **Choi, Jun Hyeok**
   * Master Student (joined since February 2022)
-  * Research Interests: Visual SLAM
-* **Kim, Gibum**
+  * Research Interests: Visual SLAM, Sim2Real
+  * E-mail: <dkwnsgur12@gmail.com>
+* **Kim, Ki Beom**
   * Master Student (joined since February 2022)
   * Research Interests: Autonomous Navigation
+  * E-mail: <tiger0328@seoultech.ac.kr>

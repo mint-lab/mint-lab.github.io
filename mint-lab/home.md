@@ -13,5 +13,5 @@ _Mobile Intelligence Laboratory_ (shortly **_<span style="color:#034b03">MINT La
 _MINT Lab_ wants to apply our research results not only to academic papers but also to real-world problems. We have a definite research goal as **<span style="color:#034b03">mobile intelligence for solving real-world problems</span>**. We hope that our research makes our world and society better. To fulfill the mission, _MINT Lab_ and its members strive for **<span style="color:#034b03">sharing, collaboration, and mutual growth</span>**.
 
 ## News
-* 2022/02/21 - Joonhyeok Choi and Gibum Kim joined the lab.
+* 2022/02/21 - Jun Hyeok Choi and Ki Beom Kim joined the lab.
 * 2022/02/14 - _MINT Lab_ homepage is open.
