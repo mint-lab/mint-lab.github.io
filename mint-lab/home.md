@@ -4,7 +4,7 @@ title : Welcome to MINT Lab
 permalink: /
 ---
 
-_Mobile Intelligence Laboratory_ (shortly **_<span style="color:#034b03">MINT Lab</span>_**) aims to enable **<span style="color:#034b03">perception, intelligence, and actions of mobile agents and devices</span>** such as robots, cars, drones, and also smartphones.
+_Mobile Intelligence Laboratory_ (shortly **_<span style="color:#034b03">MINT Lab</span>_**) is an research group for **<span style="color:#034b03">perception, intelligence, and actions of mobile agents and devices</span>** such as robots, cars, drones, and also smartphones. _MINT Lab_ belongs to [Computer Science and Engineering Department](https://computer.seoultech.ac.kr/) in [Seoul National University of Science and Technology](https://en.seoultech.ac.kr/) (shortly SeoulTech).
 
 <p align="center"><img src="../mint-lab/research_area.png" width="450px" /></p>
 

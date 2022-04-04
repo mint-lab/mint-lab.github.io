@@ -19,3 +19,9 @@ permalink: /members/
   * Master Student (joined since February 2022)
   * Research Interests: Autonomous Navigation
   * E-mail: <tiger0328@seoultech.ac.kr>
+
+## Undergraduate Students
+* **Hwang, Hyunkil** [[Github]](https://github.com/Hyunkil76)
+  * Undergraduate Student (joined since March 2022)
+  * Research Interest: SLAM, Deep Learning
+  * E-mail: <hyunkil76@gmail.com>
