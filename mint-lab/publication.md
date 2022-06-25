@@ -14,4 +14,8 @@ permalink: /publication/
 <br>
 
 ## Domestic Journal/Magazine Articles (written in Korean)
-* 최성록, 최중용, 김현주, **Visual SLAM을 통해 살펴본SLAM 기술의 변화와 흐름**, 로봇과 인간, 18권 4호, 2021년 [Magazine](http://kros.org/journal/journal04_list.asp)
+* 최준혁, 최성록, **카메라 캘리브레이션의 원리와 기술 동향**, 제어로봇시스템학회지, 28권 2호, 2022년 [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4)
+* 최성록, 최중용, 김현주, **Visual SLAM을 통해 살펴본SLAM 기술의 변화와 흐름**, 로봇과 인간, 18권 4호, 2021년 [Magazine](http://kros.org/journal/journal04_list.asp) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10620198)
+
+## Domestic Conference Papers (written in Korean)
+* 최성록, 최준혁, 김기범, 최중용, 김현주, **3차원 물체 복원을 위한 SFM 기술의 성능평가**, 한국로봇종합학술대회, 2022
