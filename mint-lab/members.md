@@ -15,10 +15,10 @@ permalink: /members/
   * Master Student (joined since February 2022)
   * Research Interests: Visual SLAM, Sim2Real
   * E-mail: <dkwnsgur12@gmail.com>
-* **Kim, Ki Beom**
-  * Master Student (joined since February 2022)
-  * Research Interests: Autonomous Navigation
-  * E-mail: <tiger0328@seoultech.ac.kr>
+* **Seo, Chan Ho**
+  * Master Student (joined since January 2023)
+  * Research Interests: 3D Computer Vision
+  * E-mail: <seochanho0717@gmail.com>
 
 ## Undergraduate Students
 * **Hwang, Hyunkil** [[Github]](https://github.com/Hyunkil76)
