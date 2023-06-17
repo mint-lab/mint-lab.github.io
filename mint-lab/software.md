@@ -10,6 +10,9 @@ permalink: /software/
 * **[Triangulation Toolbox](https://sites.google.com/site/sunglok/tt)**
   * Open-source algorithms and benchmarks for landmark-based localization
   * Language: MATLAB
+* **[zero-shot-calibration](https://github.com/mint-lab/zero-shot-calibration)**
+  * A Python implementation of the zero-shot camera calibration paper [[arXiv]](https://arxiv.org/abs/2011.14607)
+  * Language: Python
 * **[OpenCX](https://github.com/mint-lab/opencx): Sunglok's OpenCV Extension**
   * Useful functions and classes for [OpenCV](https://opencv.org/) in C++
   * Language: C++

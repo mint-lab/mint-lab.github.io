@@ -9,6 +9,8 @@ permalink: /publication/
 * Kyoungmi Lee, Sunglok Choi, and Jae-Suk Yang, **Can Expensive Research Equipment Boost Research and Development Performances?**, Scientometrics, Vol. 126, 2021 [PDF](https://link.springer.com/content/pdf/10.1007/s11192-021-04088-6.pdf) [DOI](https://doi.org/10.1007/s11192-021-04088-6)
 
 ## Conference Papers
+* Cheonin Oh, Sungwoong Shin, Daesub Yoon, and Sunglok Choi, **Vehicle Map Mapping and Parking Occupancy Estimation System with No Ambiguity**, IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023
+* Hyunkil Hwang, Jun Hyeok Choi, Chan Ho Seo, and Sunglok Choi, **Fast Multiple 3D Plane Detection from Depth Images**, International Conference on Ubiquitous Robots (UR), 2023 (Working-in-progress Paper)
 * Ahyun Lee, Kang-Woo Lee, Sunglok Choi, Sang-Soo Kim, and Sung-Woong Shin, **Things You Can See Through VR with Urban Digital Twin**, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2022 [DOI](https://doi.org/10.1109/ISMAR-Adjunct57072.2022.00164) (Poster)
 
 <br>
