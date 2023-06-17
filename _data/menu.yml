@@ -16,7 +16,7 @@
   subcategories:
     - subtitle: "Publication"
       subhref : "/publication/"
-    - subtitle: "Publication before 2021"
+    - subtitle: "Publication until 2020"
       subhref : "/publication2020/"
 
 - title: "Open Source"
@@ -25,7 +25,9 @@
     - subtitle: "RTL: RANSAC Template Library"
       subhref : "https://github.com/mint-lab/rtl"
     - subtitle: "Triangulation Toolbox"
-      subhref : "https://sites.google.com/site/sunglok/tt"
+      subhref : "https://github.com/mint-lab/TriangulationToolbox"
+    - subtitle: "zero-shot-calibration"
+      subhref : "https://github.com/mint-lab/zero-shot-calibration"
     - subtitle: "Misc."
       subhref : "/software/"
 

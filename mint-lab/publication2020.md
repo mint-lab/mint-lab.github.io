@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Publication before 2021
+title : Publication until 2020
 permalink: /publication2020/
 ---
 

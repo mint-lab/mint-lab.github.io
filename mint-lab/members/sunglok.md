@@ -12,18 +12,20 @@ Assistant Professor, Ph. D.<br>
 [Computer Science and Engineering Department](https://computer.seoultech.ac.kr/)<br>
 [Seoul National University of Science and Technology (SEOULTECH)](https://en.seoultech.ac.kr/)
 
-<br>
+
+
 **Contact**
 * [Homepage](/sunglok), [Github](https://github.com/sunglok), [Google Scholar](https://scholar.google.com/citations?user=ckeePCMAAAAJ)
 * E-mail: <mailto:sunglok@seoultech.ac.kr>
 * Phone (Office): +82-2-970-6708
 * Address: Mirae Hall #327, 232 Gongneung-ro, Nowon-gu, Seoul, Republic of Korea (01811)
 
-<br>
+
 
 ## Research Interests
 * **Robot Navigation**: Localization, SLAM, Motion and Task Planning
 * **3D Computer Vision**: Robust Regression, Visual Odometry/SLAM, Structure-from-Motion
+
 
 
 ## Education
@@ -44,14 +46,14 @@ Assistant Professor, Ph. D.<br>
   * Bachelor of Science in Computer Science Engineering (Minor)
 
 
+
 ## Brief Work Experience
 * 2021/03 - Present: Assistant Professor, [Computer Science and Engineering Department](https://computer.seoultech.ac.kr/), [SEOULTECH](https://en.seoultech.ac.kr/)
 * 2008/02 - 2021/02: Senior Researcher, Intelligent Robotics Research Division, [ETRI](http://www.etri.re.kr/)
-  
   * 2020/08 - 2021/02: Professor, ETRI AI Academy
-  
   * 2012/10 - 2012/11: Visitor, [Field Robotics Center](http://www.frc.ri.cmu.edu/), [Robotics Institute](http://www.ri.cmu.edu/), [CMU](https://www.cmu.edu/)
   * 2011/08 - 2011/09: Visiting Researcher, [FutureRobot](http://www.futurerobot.com/)
+
 
 
 ## Selected Publication
@@ -61,6 +63,7 @@ Assistant Professor, Ph. D.<br>
 * Sunglok Choi, **Triangulation Toolbox: Open-source Algorithms and Benchmarks for Landmark-based Localization**, in Proceedings of IEEE International Conference on Robotics and Automation (ICRA), 2014 [DOI](http://doi.org/10.1109/ICRA.2014.6907810) [Project Page](https://github.com/mint-lab/TriangulationToolbox)
 * Sunglok Choi and Wonpil Yu, **Any-angle Path Planning on Non-uniform Costmaps**, in Proceedings of IEEE International Conference on Robotics and Automation (ICRA), 2011 [DOI](http://doi.org/10.1109/ICRA.2011.5979769)
 * Sunglok Choi, Taemin Kim, and Wonpil Yu, **Performance Evaluation of RANSAC Family**, in Proceedings of British Machine Vision Conference (BMVC), 2009 [PDF](http://www.bmva.org/bmvc/2009/Papers/Paper355/Paper355.pdf) [DOI](http://doi.org/10.5244/C.23.81) [Project Page](http://github.com/sunglok/rtl)
+
 
 
 ## Selected Honor and Awards
