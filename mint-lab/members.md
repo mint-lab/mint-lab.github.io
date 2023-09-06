@@ -25,6 +25,11 @@ permalink: /members/
   * Master Student (joined since February 2023)
   * Research Interests: 3D Computer Vision
   * E-mail: <randomkok@seoultech.ac.kr>
+* **Nguyen Cong Quy**
+  * Master Student (joined since September 2023)
+  * Research Interests: Computer Vision, Deep Learning
+  * E-mail: <nguyencongquy.ncq@gmail.com>
+
 
 
 

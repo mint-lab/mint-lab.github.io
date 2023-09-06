@@ -13,4 +13,4 @@ We don't have alumni yet.
   * Undergraduate Student (2022-Summer, 2023-Winter)
   * Contribution: RGB-D Structure-from-Motion
   * E-mail: <hebin810@naver.com>
-  * Now: Graduate School at Ewha Womans University
+  * Next: Graduate School at Ewha Womans University
