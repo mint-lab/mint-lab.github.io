@@ -22,4 +22,4 @@ permalink: /visit_kr/
 1. 공릉역 1번 출구를 따라 이동하여
 1. 학교 쪽문을 통해 (테니스장과 체육관을 지나) 미래관으로 오는 것이 편리합니다.
 
-<p align="center"><img src="mint-lab/docs/images/MiraeHall_by_subway.png" width="90%" /></p>
+<p align="center"><img src="../mint-lab/docs/images/MiraeHall_by_subway.png" width="90%" /></p>

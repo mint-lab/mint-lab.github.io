@@ -10,7 +10,7 @@ permalink: /publication/
 
 ## Conference Papers
 * Cheonin Oh, Sungwoong Shin, Daesub Yoon, and Sunglok Choi, **Vehicle Map Mapping and Parking Occupancy Estimation System with No Ambiguity**, IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023
-* Hyunkil Hwang, Jun Hyeok Choi, Chan Ho Seo, and Sunglok Choi, **Fast Multiple 3D Plane Detection from Depth Images**, International Conference on Ubiquitous Robots (UR), 2023 [PDF](Hwang23_ur.pdf) (Working-in-progress Paper)
+* Hyunkil Hwang, Jun Hyeok Choi, Chan Ho Seo, and Sunglok Choi, **Fast Multiple 3D Plane Detection from Depth Images**, International Conference on Ubiquitous Robots (UR), 2023 [PDF](../mint-lab/papers/Hwang23_ur.pdf) (Working-in-progress Paper)
 * Ahyun Lee, Kang-Woo Lee, Sunglok Choi, Sang-Soo Kim, and Sung-Woong Shin, **Things You Can See Through VR with Urban Digital Twin**, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2022 [DOI](https://doi.org/10.1109/ISMAR-Adjunct57072.2022.00164) (Poster)
 
 <br>
