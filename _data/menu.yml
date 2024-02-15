@@ -20,16 +20,16 @@
       subhref : "/publication2020/"
 
 - title: "Open Source"
-  href : "/software/"
+  href : "https://github.com/mint-lab/"
   subcategories:
+    - subtitle: "Github"
+      subhref : "https://github.com/mint-lab/"
     - subtitle: "RTL: RANSAC Template Library"
       subhref : "https://github.com/mint-lab/rtl"
     - subtitle: "Triangulation Toolbox"
       subhref : "https://github.com/mint-lab/TriangulationToolbox"
     - subtitle: "zero-shot-calibration"
       subhref : "https://github.com/mint-lab/zero-shot-calibration"
-    - subtitle: "Misc."
-      subhref : "/software/"
 
 - title: "Knowledge Sharing"
   href : "/tutorials/"
