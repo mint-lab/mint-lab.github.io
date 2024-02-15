@@ -13,11 +13,7 @@ permalink: /members/
 
 
 ## Graduate Students
-* **Choi, Jun Hyeok**
-  * Master Student (joined since February 2022)
-  * Research Interests: Visual SLAM, Sim2Real
-  * E-mail: <dkwnsgur12@gmail.com>
-* **Seo, Chan Ho**
+* **Seo, Chan Ho** [[Github]](https://github.com/gravity0717)
   * Master Student (joined since January 2023)
   * Research Interests: 3D Computer Vision
   * E-mail: <seochanho0717@gmail.com>
@@ -25,27 +21,18 @@ permalink: /members/
   * Master Student (joined since February 2023)
   * Research Interests: 3D Computer Vision
   * E-mail: <randomkok@seoultech.ac.kr>
-* **Nguyen Cong Quy**
+* **Nguyen Cong Quy** [[Github]](https://github.com/ncquy)
   * Master Student (joined since September 2023)
   * Research Interests: Computer Vision, Deep Learning
   * E-mail: <nguyencongquy.ncq@gmail.com>
-
+* **Dongwook Heo** [[Github]](https://github.com/dongwookheo)
+  * Master Student (joined since February 2024)
+  * Research Interests: Visual SLAM
+  * E-mail: <hdwook3918@gmail.com>
 
 
 
 ## Undergraduate Students
-* **Hwang, Hyunkil** [[Github]](https://github.com/Hyunkil76)
-  * Undergraduate Student (2022-Spring/Summer/Fall, 2023-Winter/Spring)
-  * Research Interest: SLAM, Deep Learning
-  * E-mail: <hyunkil76@gmail.com>
-* **Shin, Hyun Gyu** [[Github]](https://github.com/ufshg)
-  * Undergraduate Student (2022-Summer/Fall, 2023-Winter)
-  * Research Interest: Algorithm
-  * E-mail: <rhtnvkdnj@gmail.com>
-* **Choi, Haesol** [[Github]](https://github.com/NyaNyak)
-  * Undergraduate Student (2022-Summer/Fall, 2023-Winter)
-  * Research Interest: Reinforcement Learning, Deep Learning
-  * E-mail: <chsgood1004@gmail.com>
 * **Kang, San** [[Blog]](https://blog.naver.com/ks610126)
   * Undergraduate Student (2022-Summer)
   * Research Interest: Artificial Intelligence
@@ -54,3 +41,7 @@ permalink: /members/
   * Undergraduate Student (2022-Summer)
   * Research Interest: 3D Computer Vision
   * E-mail: <qowngus33@gmail.com>
+* **Jin Seo Kim** [[Github]](https://github.com/JINSEO2KIM)
+  * Undergraduate Student
+  * Research Interest: Computer Vision, Deep Learning
+  * E-mail: <kimjsjs02180@naver.com>
