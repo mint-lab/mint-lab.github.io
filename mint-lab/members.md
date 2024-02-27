@@ -25,7 +25,7 @@ permalink: /members/
   * Master Student (joined since September 2023)
   * Research Interests: Computer Vision, Deep Learning
   * E-mail: <nguyencongquy.ncq@gmail.com>
-* **Dongwook Heo** [[Github]](https://github.com/dongwookheo)
+* **Heo, Dongwook** [[Github]](https://github.com/dongwookheo)
   * Master Student (joined since February 2024)
   * Research Interests: Visual SLAM
   * E-mail: <hdwook3918@gmail.com>
@@ -41,7 +41,7 @@ permalink: /members/
   * Undergraduate Student (2022-Summer)
   * Research Interest: 3D Computer Vision
   * E-mail: <qowngus33@gmail.com>
-* **Jin Seo Kim** [[Github]](https://github.com/JINSEO2KIM)
+* **Kim, Jin Seo** [[Github]](https://github.com/JINSEO2KIM)
   * Undergraduate Student
   * Research Interest: Computer Vision, Deep Learning
   * E-mail: <kimjsjs02180@naver.com>

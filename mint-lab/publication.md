@@ -9,7 +9,7 @@ permalink: /publication/
 * Kyoungmi Lee, Sunglok Choi, and Jae-Suk Yang, **Can Expensive Research Equipment Boost Research and Development Performances?**, Scientometrics, Vol. 126, 2021 [DOI](https://doi.org/10.1007/s11192-021-04088-6)
 
 ## Conference Papers
-* Cheonin Oh, Sungwoong Shin, Daesub Yoon, and Sunglok Choi, **Vehicle Map Mapping and Parking Occupancy Estimation System with No Ambiguity**, IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023
+* Cheonin Oh, Sungwoong Shin, Daesub Yoon, and Sunglok Choi, **Vehicle Map Mapping and Parking Occupancy Estimation System with No Ambiguity**, IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023 [DOI](https://doi.org/10.1109/SMC53992.2023.10394312)
 * Hyunkil Hwang, Jun Hyeok Choi, Chan Ho Seo, and Sunglok Choi, **Fast Multiple 3D Plane Detection from Depth Images**, International Conference on Ubiquitous Robots (UR), 2023 [PDF](../mint-lab/papers/Hwang23_ur.pdf) (Working-in-progress Paper)
 * Ahyun Lee, Kang-Woo Lee, Sunglok Choi, Sang-Soo Kim, and Sung-Woong Shin, **Things You Can See Through VR with Urban Digital Twin**, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2022 [DOI](https://doi.org/10.1109/ISMAR-Adjunct57072.2022.00164) (Poster)
 
@@ -23,10 +23,10 @@ permalink: /publication/
 <br>
 
 ## Domestic Journal/Magazine Articles (mostly written in Korean)
-* 최진원, 서찬호, 최준혁, 최성록, **NeRF의 정확한 3차원 복원을 위한 거리-엔트로피 기반 영상 시점 선택 기술**, 로봇학회 논문지, 19권 1호, 2024년
+* 최진원, 서찬호, 최준혁, 최성록, **NeRF의 정확한 3차원 복원을 위한 거리-엔트로피 기반 영상 시점 선택 기술**, 로봇학회 논문지, 19권 1호, 2024년 [PDF](https://jkros.org/xml/39610/39610.pdf) [DOI](https://doi.org/10.7746/jkros.2024.19.1.098) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11715784)
 * 최준혁, 최성록, **NeRF의 원리와 기술 동향**, 제어로봇시스템학회지, 28권 4호, 2022년 [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11178497)
 * 최준혁, 최성록, **카메라 캘리브레이션의 원리와 기술 동향**, 제어로봇시스템학회지, 28권 2호, 2022년 [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11077417)
-* 최성록, 최중용, 김현주, **Visual SLAM을 통해 살펴본SLAM 기술의 변화와 흐름**, 로봇과 인간, 18권 4호, 2021년 [Magazine](http://kros.org/journal/journal04_list.asp) [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10620198)
+* 최성록, 최중용, 김현주, **Visual SLAM을 통해 살펴본 SLAM 기술의 변화와 흐름**, 로봇과 인간, 18권 4호, 2021년 [Magazine](http://kros.org/journal/journal04_list.asp) [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10620198)
 
 ## Domestic Conference Extended Abstracts (mostly written in Korean)
 * Quy Nguyen Cong and Sunglok Choi, **ROI Picker: An Open-source ROI Editor on Images**, Korea Robotics Society Annual Conference (KRoC), 2024

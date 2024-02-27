@@ -33,5 +33,5 @@ permalink: /robots/
 They are just robots and equipment, but we think that they are also our members. Of course, they have **their names** out of their model names by manufacturers.
 * _Dr. Daniel's Kobuki_ came from its developer (father), [Dr. Daniel Stonier](https://github.com/stonier). He had raised a turtle ([kobuki in Korean](https://translate.google.com/?sl=auto&tl=ko&text=turtle&op=translate)) when he had lived in Daejeon.
 * The _kobuki_, _rabbit_, and _Yongwang_ were inspired from the Korean folk tale, _[Hare's Liver](https://folkency.nfm.go.kr/en/topic/detail/5998)_ (토끼전 or 별주부전 in Korean).
-    * _Hwang_ rabbit came from its father, [Hyunkil Hwang](https://github.com/Hyunkil76), a former student.
+    * _Hwang_ rabbit came from its father (developer), [Hyunkil Hwang](https://github.com/Hyunkil76), a former undergraduate student.
 * The _Land snail_ was named by [Hyun Gyu Shin](https://github.com/ufshg), a winner of its naming contest.
