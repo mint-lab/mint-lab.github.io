@@ -19,8 +19,9 @@ permalink: /alumni/
   * Contribution: RGB-D Structure-from-Motion
   * Next: Graduate School at Ewha Womans University
 * **Hwang, Hyunkil** [[Github]](https://github.com/Hyunkil76) (graduated in February 2023)
-  * Undergraduate Student (2022-Spring/Summer/Fall, 2023-Winter/Spring/Summer/Fall, 2024-Winter)
+  * Undergraduate Student (February 2022 - May 2024)
   * Contribution: [PlaneFill](https://github.com/mint-lab/PlaneFill), Multi-modal 3D Localization, [mint-cart-ros](https://github.com/mint-lab/mint_cart_ros), [sensorpy](https://github.com/mint-lab/sensorpy)
+    * Note) The father of _Hwang Cart_
   * Next: TBD
 * **Shin, Hyun Gyu** [[Github]](https://github.com/ufshg) (graduated in February 2023)
   * Undergraduate Student (2022-Summer/Fall, 2023-Winter)

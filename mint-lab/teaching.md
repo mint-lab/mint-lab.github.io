@@ -9,7 +9,7 @@ permalink: /teaching/
 > Making Digital Computers from Scratch!
 
 * This course provides an introduction to **elements and theories of modern digital systems** such as computers, smartphones, tablets, and more. The course includes number systems, number/character representation, logic gates, flip-flops, and their applications to digital circuits. As the subtitle, _Making Digital Computers from Scratch_, said, this course help students understand basic elements and operations of modern digital computers. Finally **students will implement a simple CPU by their hands** using [Logisim-evolution](https://github.com/logisim-evolution/logisim-evolution).
-* Course code: 109256/109832 (for 2nd-year CSE students)
+* Course code: 109842/109843 (for 2nd-year CSE students)
 * History: 2021-Spring, 2022-Spring, 2023-Spring, 2024-Spring
 
 ### Open Source Software (shortly OSS)

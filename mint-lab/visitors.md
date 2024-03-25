@@ -1,10 +1,10 @@
 ---
 layout: page
-title : (Incomplete) Alumni
-permalink: /alumni_incomplete/
+title : Visitors
+permalink: /visitors/
 ---
 
-## Graduate Alumni
+## Visitors
 * **Kim, Ki Beom**
   * Master Student (February 2022 - August 2022)
   * Contribution: MINT Path Planner
