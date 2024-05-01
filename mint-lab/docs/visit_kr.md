@@ -7,7 +7,7 @@ permalink: /visit_kr/
 * 서울과학기술대학교(SeoulTech) 주소: 서울특별시 노원구 공릉로 232 (우편번호: 01811)
   * [학교 홈페이지 안내](https://www.seoultech.ac.kr/intro/campinfo/location/)
 * 건물: **미래관** (60번 건물) [[네이버지도]](http://naver.me/xqfiYBLu)
-  * 학생 연구실: 미래관 **220호** (2층)
+  * 학생 연구실: 미래관 **122호** (1층)
   * 교수 연구실: 미래관 **327호** (3층)
 
 ## 자동차로 오는 경우

@@ -37,11 +37,3 @@ permalink: /members/
   * Undergraduate Student (2022-Summer)
   * Research Interest: Artificial Intelligence
   * E-mail: <ks610126@gmail.com>
-* **Bae, Juhyun** [[Github]](https://github.com/qowngus33) [[Blog]](https://kk-eezz.tistory.com)
-  * Undergraduate Student (2022-Summer)
-  * Research Interest: 3D Computer Vision
-  * E-mail: <qowngus33@gmail.com>
-* **Kim, Jin Seo** [[Github]](https://github.com/JINSEO2KIM)
-  * Undergraduate Student
-  * Research Interest: Computer Vision, Deep Learning
-  * E-mail: <kimjsjs02180@naver.com>
