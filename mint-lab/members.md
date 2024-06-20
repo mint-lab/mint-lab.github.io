@@ -29,11 +29,3 @@ permalink: /members/
   * Master Student (joined since February 2024)
   * Research Interests: Visual SLAM
   * E-mail: <hdwook3918@gmail.com>
-
-
-
-## Undergraduate Students
-* **Kang, San** [[Blog]](https://blog.naver.com/ks610126)
-  * Undergraduate Student (2022-Summer)
-  * Research Interest: Artificial Intelligence
-  * E-mail: <ks610126@gmail.com>

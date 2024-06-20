@@ -17,3 +17,7 @@ permalink: /visitors/
   * Undergraduate Student (2022-Summer)
   * Contribution: Visual Parking Lot Mapping
   * E-mail: <qowngus33@gmail.com>
+* **Kang, San** [[Blog]](https://blog.naver.com/ks610126)
+  * Undergraduate Student (2022-Summer)
+  * Contribution: Visual Parking Lot Mapping
+  * E-mail: <ks610126@gmail.com>
