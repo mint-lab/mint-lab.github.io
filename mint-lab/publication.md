@@ -5,10 +5,10 @@ permalink: /publication/
 ---
 
 ## 2024
-* <span style="color:orange">[D04]</span> 최진원, 서찬호, 최준혁, 최성록, **NeRF의 정확한 3차원 복원을 위한 거리-엔트로피 기반 영상 시점 선택 기술**, 로봇학회 논문지, 19권 1호, 2024년 [PDF](https://jkros.org/xml/39610/39610.pdf) [DOI](https://doi.org/10.7746/jkros.2024.19.1.098) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11715784)
-* <span style="color:orange">[D03]</span> 서찬호, Nguyen Cong Quy, 허동욱, 최성록, **다중객체추적(Multiple Object Tracking) 기술 동향 분석**, 제어로봇시스템학회지, 30권 2호, 2024년 [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) DBPia
+* <span style="color:orange">[D05]</span> 최진원, 서찬호, 최준혁, 최성록, **NeRF의 정확한 3차원 복원을 위한 거리-엔트로피 기반 영상 시점 선택 기술**, 로봇학회 논문지, 19권 1호, 2024년 [PDF](https://jkros.org/xml/39610/39610.pdf) [DOI](https://doi.org/10.7746/jkros.2024.19.1.098) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11715784)
+* <span style="color:orange">[D04]</span> 서찬호, Nguyen Cong Quy, 허동욱, 최성록, **다중객체추적(Multiple Object Tracking) 기술 동향 분석**, 제어로봇시스템학회지, 30권 2호, 2024년 [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) DBPia
 * <span style="color:green">[K05]</span> 서찬호, 최성록, **보행자 기반 카메라 캘리브레이션 알고리즘 분석**, 한국로봇종합학술대회 (KRoC), 2024년
-* <span style="color:green">[K04]</span> Quy Nguyen Cong and Sunglok Choi, **ROI Picker: An Open-source ROI Editor on Images**, Korea Robotics Society Annual Conference (KRoC), 2024
+* <span style="color:green">[K04]</span> Nguyen Cong Quy and Sunglok Choi, **ROI Picker: An Open-source ROI Editor on Images**, Korea Robotics Society Annual Conference (KRoC), 2024
 
 
 
@@ -24,8 +24,8 @@ permalink: /publication/
 ## 2022
 * <span style="color:red">[J02]</span> Ki-In Na, Sunglok Choi, and Jong-Hwan Kim, **Adaptive Target Tracking with Interacting Heterogeneous Motion Models**, IEEE Transactions on Intelligent Transportation Systems, Vol. 23, No. 11, 2022 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9837821) [DOI](https://doi.org/10.1109/TITS.2022.3191814)
 * <span style="color:blue">[C01]</span> Ahyun Lee, Kang-Woo Lee, Sunglok Choi, Sang-Soo Kim, and Sung-Woong Shin, **Things You Can See Through VR with Urban Digital Twin**, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2022 [DOI](https://doi.org/10.1109/ISMAR-Adjunct57072.2022.00164) (Poster)
-* <span style="color:orange">[D02]</span> 최준혁, 최성록, **NeRF의 원리와 기술 동향**, 제어로봇시스템학회지, 28권 4호, 2022년 [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11178497)
-* <span style="color:orange">[D01]</span> 최준혁, 최성록, **카메라 캘리브레이션의 원리와 기술 동향**, 제어로봇시스템학회지, 28권 2호, 2022년 [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11077417)
+* <span style="color:orange">[D03]</span> 최준혁, 최성록, **NeRF의 원리와 기술 동향**, 제어로봇시스템학회지, 28권 4호, 2022년 [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11178497)
+* <span style="color:orange">[D02]</span> 최준혁, 최성록, **카메라 캘리브레이션의 원리와 기술 동향**, 제어로봇시스템학회지, 28권 2호, 2022년 [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11077417)
 * <span style="color:green">[K01]</span> 최성록, 최준혁, 김기범, 최중용, 김현주, **3차원 물체 복원을 위한 SFM 기술의 성능평가**, 한국로봇종합학술대회 (KRoC), 2022년
 
 
