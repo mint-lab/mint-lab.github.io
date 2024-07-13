@@ -5,16 +5,18 @@ permalink: /publication/
 ---
 
 ## 2024
-* <span style="color:orange">[D05]</span> 최진원, 서찬호, 최준혁, 최성록, **NeRF의 정확한 3차원 복원을 위한 거리-엔트로피 기반 영상 시점 선택 기술**, 로봇학회 논문지, 19권 1호, 2024년 [PDF](https://jkros.org/xml/39610/39610.pdf) [DOI](https://doi.org/10.7746/jkros.2024.19.1.098) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11715784)
-* <span style="color:orange">[D04]</span> 서찬호, Nguyen Cong Quy, 허동욱, 최성록, **다중객체추적(Multiple Object Tracking) 기술 동향 분석**, 제어로봇시스템학회지, 30권 2호, 2024년 [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) DBPia
+* <span style="color:red">[J04]</span> Dong-Hyun Lee, Sunglok Choi, Ki-In Na, **ASAP: Agile and Safe Pursuit for Local Planning of Autonomous Mobile Robots**, IEEE Access, Vol. 12, 2024
+* <span style="color:orange">[D06]</span> 최진원, 서찬호, 최준혁, 최성록, **NeRF의 정확한 3차원 복원을 위한 거리-엔트로피 기반 영상 시점 선택 기술**, 로봇학회 논문지, 19권 1호, 2024년 [PDF](https://jkros.org/xml/39610/39610.pdf) [DOI](https://doi.org/10.7746/jkros.2024.19.1.098) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11715784)
+* <span style="color:orange">[D05]</span> 박태정, 한성민, 양희란, 최장훈, 송준영, 최성록, 이치범, **초고속 카메라를 이용한 스페클 패턴 기반 미소 진동 분석**, 한국소음진동공학회논문집, 34권 3호, 2024 [DOI](https://doi.org/10.5050/ksnve.2024.34.3.276) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11812521)
+* <span style="color:orange">[D04]</span> 서찬호, Nguyen Cong Quy, 허동욱, 최성록, **다중객체추적(Multiple Object Tracking) 기술 동향 분석**, 제어로봇시스템학회지, 30권 2호, 2024년 [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11839904)
 * <span style="color:green">[K05]</span> 서찬호, 최성록, **보행자 기반 카메라 캘리브레이션 알고리즘 분석**, 한국로봇종합학술대회 (KRoC), 2024년
-* <span style="color:green">[K04]</span> Nguyen Cong Quy and Sunglok Choi, **ROI Picker: An Open-source ROI Editor on Images**, Korea Robotics Society Annual Conference (KRoC), 2024
+* <span style="color:green">[K04]</span> Nguyen Cong Quy and Sunglok Choi, **ROI Picker: An Open-source ROI Editor on Images**, Korea Robotics Society Annual Conference (KRoC), 2024 [Github](https://github.com/mint-lab/roi_picker)
 
 
 
 ## 2023
 * <span style="color:red">[J03]</span> Juhoon Back, Chang-Sei Kim, and Sunglok Choi, **Guest Editorial: The 38th ICROS Annual Conference (ICROS 2023)**, International Journal of Control, Automation, and Systems, Vol. 21, No. 11, 2023 [DOI](https://doi.org/10.1007/s12555-023-9903-y)
-* <span style="color:blue">[C03]</span> Hyunkil Hwang, Jun Hyeok Choi, Chan Ho Seo, and Sunglok Choi, **Fast Multiple 3D Plane Detection from Depth Images**, International Conference on Ubiquitous Robots (UR), 2023 [PDF](../mint-lab/papers/Hwang23_ur.pdf) (Working-in-progress Paper)
+* <span style="color:blue">[C03]</span> Hyunkil Hwang, Jun Hyeok Choi, Chan Ho Seo, and Sunglok Choi, **Fast Multiple 3D Plane Detection from Depth Images**, International Conference on Ubiquitous Robots (UR), 2023 [PDF](../mint-lab/papers/Hwang23_ur.pdf) (Working-in-progress Paper) [Github](https://github.com/mint-lab/planefill)
 * <span style="color:blue">[C02]</span> Cheonin Oh, Sungwoong Shin, Daesub Yoon, and Sunglok Choi, **Vehicle Map Mapping and Parking Occupancy Estimation System with No Ambiguity**, IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023 [DOI](https://doi.org/10.1109/SMC53992.2023.10394312)
 * <span style="color:green">[K03]</span> 최준혁, 신현규, 최해솔, 이아현, 이강우, 최성록, **도심 환경의 다수 카메라에서 3차원 위치기반 물체 추적**, 한국로봇종합학술대회 (KRoC), 2023년
 * <span style="color:green">[K02] </span>박태정, 양희란, 최장훈, 송준영, 최성록, 이치범, **스페클 패턴과 초고속 카메라를 이용한 미소 진폭의 진동 측정**, 한국소음진동공학회 추계학술대회, 2023년
