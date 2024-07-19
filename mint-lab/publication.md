@@ -5,8 +5,10 @@ permalink: /publication/
 ---
 
 ## 2024
-* <span style="color:red; font-family:'Courier New', Courier, monospace;">[J04]</span> Dong-Hyun Lee, Sunglok Choi, Ki-In Na, **ASAP: Agile and Safe Pursuit for Local Planning of Autonomous Mobile Robots**, IEEE Access, Vol. 12, 2024 [DOI](https://doi.org/10.1109/ACCESS.2024.3429506)
-* <span style="color:orange; font-family:'Courier New', Courier, monospace;">[D06]</span> 최진원, 서찬호, 최준혁, 최성록, **NeRF의 정확한 3차원 복원을 위한 거리-엔트로피 기반 영상 시점 선택 기술**, 로봇학회 논문지, 19권 1호, 2024년 [PDF](https://jkros.org/xml/39610/39610.pdf) [DOI](https://doi.org/10.7746/jkros.2024.19.1.098) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11715784)
+* <span style="color:red; font-family:'Courier New', Courier, monospace;">[J05]</span> Se-Hyoung Cho, Sunglok Choi, **Accurate and Resilient GPS-only Localization with**
+  **Velocity Constraints**, IEEE Access, Vol. 12, 2024 [DOI](https://doi.org/10.1109/ACCESS.2024.3432335)
+* <span style="color:red; font-family:'Courier New', Courier, monospace;">[J04]</span> Dong-Hyun Lee, Sunglok Choi, Ki-In Na, **ASAP: Agile and Safe Pursuit for Local Planning of Autonomous Mobile Robots**, IEEE Access, Vol. 12, 2024 [DOI](https://doi.org/10.1109/ACCESS.2024.3429506) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10600674)
+* <span style="color:orange; font-family:'Courier New', Courier, monospace;">[D06]</span> 최진원, 서찬호, 최준혁, 최성록, **NeRF의 정확한 3차원 복원을 위한 거리-엔트로피 기반 영상 시점 선택 기술**, 로봇학회 논문지, 19권 1호, 2024년 [DOI](https://doi.org/10.7746/jkros.2024.19.1.098)  [PDF](https://jkros.org/xml/39610/39610.pdf) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11715784)
 * <span style="color:orange; font-family:'Courier New', Courier, monospace;">[D05]</span> 박태정, 한성민, 양희란, 최장훈, 송준영, 최성록, 이치범, **초고속 카메라를 이용한 스페클 패턴 기반 미소 진동 분석**, 한국소음진동공학회논문집, 34권 3호, 2024 [DOI](https://doi.org/10.5050/ksnve.2024.34.3.276) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11812521)
 * <span style="color:orange; font-family:'Courier New', Courier, monospace;">[D04]</span> 서찬호, Nguyen Cong Quy, 허동욱, 최성록, **다중객체추적(Multiple Object Tracking) 기술 동향 분석**, 제어로봇시스템학회지, 30권 2호, 2024년 [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11839904)
 * <span style="color:green; font-family:'Courier New', Courier, monospace;">[K05]</span> 서찬호, 최성록, **보행자 기반 카메라 캘리브레이션 알고리즘 분석**, 한국로봇종합학술대회 (KRoC), 2024년
@@ -24,7 +26,7 @@ permalink: /publication/
 
 
 ## 2022
-* <span style="color:red; font-family:'Courier New', Courier, monospace;">[J02]</span> Ki-In Na, Sunglok Choi, and Jong-Hwan Kim, **Adaptive Target Tracking with Interacting Heterogeneous Motion Models**, IEEE Transactions on Intelligent Transportation Systems, Vol. 23, No. 11, 2022 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9837821) [DOI](https://doi.org/10.1109/TITS.2022.3191814)
+* <span style="color:red; font-family:'Courier New', Courier, monospace;">[J02]</span> Ki-In Na, Sunglok Choi, and Jong-Hwan Kim, **Adaptive Target Tracking with Interacting Heterogeneous Motion Models**, IEEE Transactions on Intelligent Transportation Systems, Vol. 23, No. 11, 2022 [DOI](https://doi.org/10.1109/TITS.2022.3191814) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9837821)
 * <span style="color:blue; font-family:'Courier New', Courier, monospace;">[C01]</span> Ahyun Lee, Kang-Woo Lee, Sunglok Choi, Sang-Soo Kim, and Sung-Woong Shin, **Things You Can See Through VR with Urban Digital Twin**, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2022 [DOI](https://doi.org/10.1109/ISMAR-Adjunct57072.2022.00164) (Poster)
 * <span style="color:orange; font-family:'Courier New', Courier, monospace;">[D03]</span> 최준혁, 최성록, **NeRF의 원리와 기술 동향**, 제어로봇시스템학회지, 28권 4호, 2022년 [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11178497)
 * <span style="color:orange; font-family:'Courier New', Courier, monospace;">[D02]</span> 최준혁, 최성록, **카메라 캘리브레이션의 원리와 기술 동향**, 제어로봇시스템학회지, 28권 2호, 2022년 [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11077417)
