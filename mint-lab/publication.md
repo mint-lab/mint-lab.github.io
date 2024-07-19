@@ -5,8 +5,7 @@ permalink: /publication/
 ---
 
 ## 2024
-* <span style="color:red; font-family:'Courier New', Courier, monospace;">[J05]</span> Se-Hyoung Cho, Sunglok Choi, **Accurate and Resilient GPS-only Localization with**
-  **Velocity Constraints**, IEEE Access, Vol. 12, 2024 [DOI](https://doi.org/10.1109/ACCESS.2024.3432335)
+* <span style="color:red; font-family:'Courier New', Courier, monospace;">[J05]</span> Se-Hyoung Cho, Sunglok Choi, **Accurate and Resilient GPS-only Localization with Velocity Constraints**, IEEE Access, Vol. 12, 2024 [DOI](https://doi.org/10.1109/ACCESS.2024.3432335) [Github](https://github.com/mint-lab/filtering_tutorial)
 * <span style="color:red; font-family:'Courier New', Courier, monospace;">[J04]</span> Dong-Hyun Lee, Sunglok Choi, Ki-In Na, **ASAP: Agile and Safe Pursuit for Local Planning of Autonomous Mobile Robots**, IEEE Access, Vol. 12, 2024 [DOI](https://doi.org/10.1109/ACCESS.2024.3429506) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10600674)
 * <span style="color:orange; font-family:'Courier New', Courier, monospace;">[D06]</span> 최진원, 서찬호, 최준혁, 최성록, **NeRF의 정확한 3차원 복원을 위한 거리-엔트로피 기반 영상 시점 선택 기술**, 로봇학회 논문지, 19권 1호, 2024년 [DOI](https://doi.org/10.7746/jkros.2024.19.1.098)  [PDF](https://jkros.org/xml/39610/39610.pdf) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11715784)
 * <span style="color:orange; font-family:'Courier New', Courier, monospace;">[D05]</span> 박태정, 한성민, 양희란, 최장훈, 송준영, 최성록, 이치범, **초고속 카메라를 이용한 스페클 패턴 기반 미소 진동 분석**, 한국소음진동공학회논문집, 34권 3호, 2024 [DOI](https://doi.org/10.5050/ksnve.2024.34.3.276) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11812521)
@@ -21,7 +20,7 @@ permalink: /publication/
 * <span style="color:blue; font-family:'Courier New', Courier, monospace;">[C03]</span> Hyunkil Hwang, Jun Hyeok Choi, Chan Ho Seo, and Sunglok Choi, **Fast Multiple 3D Plane Detection from Depth Images**, International Conference on Ubiquitous Robots (UR), 2023 [PDF](../mint-lab/papers/Hwang23_ur.pdf) (Working-in-progress Paper) [Github](https://github.com/mint-lab/planefill)
 * <span style="color:blue; font-family:'Courier New', Courier, monospace;">[C02]</span> Cheonin Oh, Sungwoong Shin, Daesub Yoon, and Sunglok Choi, **Vehicle Map Mapping and Parking Occupancy Estimation System with No Ambiguity**, IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023 [DOI](https://doi.org/10.1109/SMC53992.2023.10394312)
 * <span style="color:green; font-family:'Courier New', Courier, monospace;">[K03]</span> 최준혁, 신현규, 최해솔, 이아현, 이강우, 최성록, **도심 환경의 다수 카메라에서 3차원 위치기반 물체 추적**, 한국로봇종합학술대회 (KRoC), 2023년
-* <span style="color:green; font-family:'Courier New', Courier, monospace;">[K02] </span>박태정, 양희란, 최장훈, 송준영, 최성록, 이치범, **스페클 패턴과 초고속 카메라를 이용한 미소 진폭의 진동 측정**, 한국소음진동공학회 추계학술대회, 2023년
+* <span style="color:green; font-family:'Courier New', Courier, monospace;">[K02]</span>박태정, 양희란, 최장훈, 송준영, 최성록, 이치범, **스페클 패턴과 초고속 카메라를 이용한 미소 진폭의 진동 측정**, 한국소음진동공학회 추계학술대회, 2023년
 
 
 
@@ -35,5 +34,5 @@ permalink: /publication/
 
 
 ## 2021
-* <span style="color:red; font-family:'Courier New', Courier, monospace;">[J01]</span> Kyoungmi Lee, Sunglok Choi, and Jae-Suk Yang, **Can Expensive Research Equipment Boost Research and Development Performances?**, Scientometrics, Vol. 126, 2021 [DOI](https://doi.org/10.1007/s11192-021-04088-6)
+* <span style="color:red; font-family:'Courier New', Courier, monospace;">[J01]</span> Kyoungmi Lee, Sunglok Choi, and Jae-Suk Yang, **Can Expensive Research Equipment Boost Research and Development Performances?**, Scientometrics, Vol. 126, 2021 [DOI](https://doi.org/10.1007/s11192-021-04088-6) [PDF](https://link.springer.com/content/pdf/10.1007/s11192-021-04088-6.pdf)
 * <span style="color:orange; font-family:'Courier New', Courier, monospace;">[D01]</span> 최성록, 최중용, 김현주, **Visual SLAM을 통해 살펴본 SLAM 기술의 변화와 흐름**, 로봇과 인간, 18권 4호, 2021년 [Magazine](http://kros.org/journal/journal04_list.asp) [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10620198)
