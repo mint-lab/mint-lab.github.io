@@ -29,3 +29,11 @@ permalink: /members/
   * Master Student (joined since February 2024)
   * Research Interests: Visual SLAM
   * E-mail: <hdwook3918@gmail.com>
+
+
+
+## Undergraduate Students
+* **Kim, Sung-Hyeon** [[Github]](https://github.com/gogog01-29-2021)
+  * Undergraduate Student (joined since July 2024)
+  * Research Interests: Bayesian Filtering
+  * E-mail: <ironwar0000@naver.com>
