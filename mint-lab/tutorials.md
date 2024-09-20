@@ -25,6 +25,7 @@ We would like to share our tutorials with lectures slides and code examples. The
 ## Survey Articles
 We wrote some survey articles while preparing our research. They are mostly written in Korean.
 
+* 최진원, 허동욱, Nguyen Cong Quy, 서찬호, 장인성, 최성록, **공간 표현과 입력 영상 관점에서 살펴본 Visual Localization 연구 동향 분석**, 제어로봇시스템학회지, 30권 3호, 2024년
 * 서찬호, Nguyen Cong Quy, 허동욱, 최성록, **다중객체추적(Multiple Object Tracking) 기술 동향 분석**, 제어로봇시스템학회지, 30권 2호, 2024년 [PDF](https://mint-lab.github.io/mint-lab/papers/Seo24_icros_mot.pdf) [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11839904)
 * 최준혁, 최성록, **NeRF의 원리와 기술 동향**, 제어로봇시스템학회지, 28권 4호, 2022년 [PDF](https://mint-lab.github.io/mint-lab/papers/Choi22_icros_nerf.pdf) [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11178497)
 * 최준혁, 최성록, **카메라 캘리브레이션의 원리와 기술 동향**, 제어로봇시스템학회지, 28권 2호, 2022년 [PDF](https://mint-lab.github.io/mint-lab/papers/Choi22_icros_calib.pdf) [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11077417)
