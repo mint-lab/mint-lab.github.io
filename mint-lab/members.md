@@ -13,14 +13,6 @@ permalink: /members/
 
 
 ## Graduate Students
-* **Seo, Chan Ho** [[Github]](https://github.com/gravity0717)
-  * Master Student (joined since January 2023)
-  * Research Interests: 3D Computer Vision
-  * E-mail: <seochanho0717@gmail.com>
-* **Choi, Jin Won** [[Github]](https://github.com/randomwons)
-  * Master Student (joined since February 2023)
-  * Research Interests: 3D Computer Vision
-  * E-mail: <randomkok@seoultech.ac.kr>
 * **Nguyen Cong Quy** [[Github]](https://github.com/ncquy)
   * Master Student (joined since September 2023)
   * Research Interests: Computer Vision, Deep Learning
@@ -29,7 +21,10 @@ permalink: /members/
   * Master Student (joined since February 2024)
   * Research Interests: Visual SLAM
   * E-mail: <hdwook3918@gmail.com>
-
+* **Dayena Jeong** [[Github]](https://github.com/DayenaJeong)
+  * Master Student (joined since April 2025)
+  * Research Interests: 3D Computer Vision
+  * E-mail: <pasteldiana@seoultech.ac.kr>
 
 
 ## Undergraduate Students

@@ -27,11 +27,21 @@ permalink: /robots/
 
 ## Computing Machines
 * **Poseidon** (also known as _[Yongwang](https://en.wikipedia.org/wiki/Yongwang)_ in Korean)
-  * Base Platform: [BARO AI POSEIDON](https://www.baroai.com/poseidon)
+  * Base Platform: [BARO AI POSEIDON](https://www.baroai.com/poseidon) 4000 Alpha
   * Specification
-    * CPU: [Intel Core i9-10980XE](https://www.intel.com/content/www/us/en/products/sku/198017/intel-core-i910980xe-extreme-edition-processor-24-75m-cache-3-00-ghz/specifications.html) (18 cores, 36 threads)
-    * GPU: [NVIDIA GeForce RTX 3090](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3090/) x 4
-    * RAM: 192 GB (DDR4 2666MHz)
+    * CPU: Intel Core i9-10980XE (18 cores, 36 threads)
+    * GPU: NVIDIA GeForce RTX 3090 (10,496 CUDA cores) x 4
+    * RAM: DDR4 192 GB
+* **Zeus**
+  * Specification
+    * CPU: AMD Rygen Threadripper 7980X (64 cores, 128 threads)
+    * GPU: NVIDIA Geforce RTX 4090 (16,384 CUDA cores) x 2
+    * RAM: DDR5 256 GB
+* **SEOULTECH Supercomputer Data Center**
+  * GPU Servers: NVIDIA DGX A100 x 8
+  * CPU Servers: ASUS RS700-E10 (CPU: Intel Xeon Gold 6342)
+
+
 
 ## Naming Stories
 They are just robots and equipment, but we think that they are also our members. Of course, they have **their names** out of their model names by manufacturers.
