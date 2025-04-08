@@ -13,5 +13,6 @@ _Mobile Intelligence Laboratory_ (shortly **_<span style="color:#034b03">MINT La
 _MINT Lab_ wants to apply our research results not only to academic papers but also to real-world problems. We have a definite research goal as **<span style="color:#034b03">mobile intelligence for solving real-world problems</span>**. We hope that our research makes our world and society better. To fulfill the mission, _MINT Lab_ and its members strive for **<span style="color:#034b03">sharing, collaboration, and mutual growth</span>**.
 
 ## News
+* 2025/04/07 - _Dayena Jeong_ joined the lab.
+* 2025/02/14 - _Jin Won Choi_, _Chan Ho Seo_, _Jun Hyeok Choi_ won the 2024 Best Paper Award in [JKROS](https://jkros.org/). [[Media Coverage]](https://www.irobotnews.com/news/articleView.html?idxno=37582) [[School News]](https://seoultech.ac.kr/intro/infobox/research?do=commonview&bnum=58276&bidx=557671)
 * 2024/02/26 - _Dongwook Heo_ joined the lab.
-* 2023/09/05 - _Nguyen Cong Quy_ joined the lab.

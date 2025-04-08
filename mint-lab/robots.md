@@ -16,7 +16,6 @@ permalink: /robots/
   * Specification
     * Maximum speed: 3 m/s
     * Maximum payload: 10 kg (< 20 kg)
-
 * **Hwang Cart** (shortly _mint-cart_)
   * Base Platform: [Rehasense Athlon](http://rehasensekorea.com/bbs/products/athlon.php)
   * Specification: Maximum payload 150 kg
@@ -25,21 +24,24 @@ permalink: /robots/
   * Specification: Speed 15 cm/s (@ dry wipe) and 7 cm/s (@ wet wipe)
 
 
+
 ## Computing Machines
 * **Poseidon** (also known as _[Yongwang](https://en.wikipedia.org/wiki/Yongwang)_ in Korean)
   * Base Platform: [BARO AI POSEIDON](https://www.baroai.com/poseidon) 4000 Alpha
   * Specification
     * CPU: Intel Core i9-10980XE (18 cores, 36 threads)
-    * GPU: NVIDIA GeForce RTX 3090 (10,496 CUDA cores) x 4
+    * GPU: NVIDIA GeForce RTX 3090 (10,496 CUDA cores, 24 GB) x 4
     * RAM: DDR4 192 GB
 * **Zeus**
   * Specification
     * CPU: AMD Rygen Threadripper 7980X (64 cores, 128 threads)
-    * GPU: NVIDIA Geforce RTX 4090 (16,384 CUDA cores) x 2
+    * GPU: NVIDIA Geforce RTX 4090 (16,384 CUDA cores, 24 GB) x 2
     * RAM: DDR5 256 GB
 * **SEOULTECH Supercomputer Data Center**
-  * GPU Servers: NVIDIA DGX A100 x 8
-  * CPU Servers: ASUS RS700-E10 (CPU: Intel Xeon Gold 6342)
+  * [CPU Servers](https://seoultechlab.kr/EquipView.asp?EquipID=323): ASUS RS700-E10
+    * CPU: Intel Xeon Gold 6342 (24 cores, 48 threads) x 2
+  * [GPU Servers](https://seoultechlab.kr/EquipView.asp?EquipID=322): NVIDIA DGX A100 Station
+    * GPU: NVIDIA A100 (6,912 CUDA cores, 80 GB) x 8
 
 
 

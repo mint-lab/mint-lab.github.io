@@ -7,7 +7,7 @@ permalink: /alumni/
 * **Choi, Jin Won** [[Github]](https://github.com/randomwons) (graduated in February 2025)
   * Master Student (February 2023 - February 2025)
     * Thesis) Real-time Camera Next-Best-Viewpoint Selection for Complete 3D Object Reconstruction
-  * Contribution: Next-Best-Viewpoint Selection (Voxel, NeRF), Real-time and Light-weight Visual Guidance for 3D Object Reconstruction (TSDF), RGB-D Synthetic Data Generator (Blender), Visual Localization with Satellite Images
+  * Contribution: Next-Best-Viewpoint Selection (Voxel, NeRF), Real-time and Light-weight Visual Guidance for 3D Object Reconstruction (TSDF), RGB-D Synthetic Data Generator (Blender Add-on), Visual Localization with Satellite Images
   * Next: [Satrec Initiative](https://www.satreci.com/)
 * **Seo, Chan Ho** [[Github]](https://github.com/gravity0717) (graduated in February 2025)
   * Master Student (January 2023 - February 2025)
