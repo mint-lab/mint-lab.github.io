@@ -27,8 +27,21 @@ permalink: /members/
   * E-mail: <pasteldiana@seoultech.ac.kr>
 
 
+
 ## Undergraduate Students
 * **Kim, Sung-Hyeon** [[Github]](https://github.com/gogog01-29-2021)
   * Undergraduate Student (joined since July 2024)
   * Research Interests: Bayesian Filtering
   * E-mail: <ironwar0000@naver.com>
+* **Kim, Daewon**
+  * Undergraduate Student (joined since July 2025)
+  * Research Interests: Computer Vision
+  * E-mail: <kimdaevvon@gmail.com>
+
+
+
+## Collaborators
+* **Siyeong Oh** [[Github]](https://github.com/siyeong0)
+  * Collaboration (since July 2025)
+  * Research Interests: 3D Computer Vision and Graphics
+  * E-mail: <sy1211w@gmail.com>
