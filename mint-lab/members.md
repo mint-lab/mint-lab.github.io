@@ -21,7 +21,7 @@ permalink: /members/
   * Master Student (joined since February 2024)
   * Research Interests: Visual SLAM
   * E-mail: <hdwook3918@gmail.com>
-* **Dayena Jeong** [[Github]](https://github.com/DayenaJeong)
+* **Dayena Jeong** [[Github]](https://github.com/DayenaJeong) [[LinkedIn]](https://www.linkedin.com/in/dayena-jeong/)
   * Master Student (joined since April 2025)
   * Research Interests: 3D Computer Vision
   * E-mail: <pasteldiana@seoultech.ac.kr>
@@ -29,7 +29,7 @@ permalink: /members/
 
 
 ## Undergraduate Students
-* **Sung-Hyeon Kim** [[Github]](https://github.com/gogog01-29-2021)
+* **Sung-Hyeon Kim** [[Github]](https://github.com/gogog01-29-2021) [[LinkedIn]](https://www.linkedin.com/in/seonghyun-kim-419b81203/) [[YouTube]](https://www.youtube.com/@SphereofTime)
   * Undergraduate Student (joined since July 2024)
   * Research Interests: Bayesian Filtering
   * E-mail: <ironwar0000@naver.com>
@@ -41,7 +41,7 @@ permalink: /members/
 
 
 ## Collaborators
-* **Siyeong Oh** [[Github]](https://github.com/siyeong0)
+* **Siyeong Oh** [[Github]](https://github.com/siyeong0) [[Blog]](https://chaeso0.tistory.com)
   * Collaborator (joined since July 2025)
   * Research Interests: 3D Computer Vision and Graphics
   * E-mail: <sy1211w@gmail.com>

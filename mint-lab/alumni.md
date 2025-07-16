@@ -6,17 +6,17 @@ permalink: /alumni/
 ## Graduate Alumni
 * **Jin Won Choi** [[Github]](https://github.com/randomwons) (graduated in February 2025)
   * Master Student (February 2023 - February 2025)
-    * Thesis) Real-time Camera Next-Best-Viewpoint Selection for Complete 3D Object Reconstruction
+    * Thesis) Real-time Camera Next-Best-Viewpoint Selection for Complete 3D Object Reconstruction [[RISS]](https://www.riss.kr/link?id=T17186992)
   * Contribution: Next-Best-Viewpoint Selection (Voxel, NeRF), Real-time and Light-weight Visual Guidance for 3D Object Reconstruction (TSDF), RGB-D Synthetic Data Generator (Blender Add-on), Visual Localization with Satellite Images
   * Next: [Satrec Initiative](https://www.satreci.com/)
 * **Chan Ho Seo** [[Github]](https://github.com/gravity0717) (graduated in February 2025)
   * Master Student (January 2023 - February 2025)
-    * Thesis) Robust and Accurate Surveillance Camera Calibration using Pedestrians
+    * Thesis) Robust and Accurate Surveillance Camera Calibration using Pedestrians [[RISS]](https://www.riss.kr/link?id=T17186808)
   * Contribution: Camera Calibration from Pedestrians, Multi-object Tracking
   * Next: [Bear Robotics](https://www.bearrobotics.ai/)
-* **Jun Hyeok Choi** [[Github]](https://github.com/cjh1995-ros) (graduated in February 2024)
+* **Jun Hyeok Choi** [[Github]](https://github.com/cjh1995-ros) [[LinkedIn]](https://www.linkedin.com/in/%EC%A4%80%ED%98%81-%EC%B5%9C-12b574183/) (graduated in February 2024)
   * Master Student (February 2022 - February 2024)
-    * Thesis) Urban Camera Network Calibration with Satellite Images
+    * Thesis) Urban Camera Network Calibration with Satellite Images [[RISS]](https://www.riss.kr/link?id=T16950594)
   * Contribution: Urban Camera Network Calibration, RGB-D Structure-from-Motion, [3dv_tutorial](https://github.com/mint-lab/3dv_tutorial), [zero-shot-calibration](https://github.com/mint-lab/zero-shot-calibration), [sensorpy](https://github.com/mint-lab/sensorpy)
     * Note) The founder of _MINT Lab's Healthy Member Contest_
   * Next: [Bear Robotics](https://www.bearrobotics.ai/)
