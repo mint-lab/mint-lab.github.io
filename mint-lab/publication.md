@@ -5,7 +5,7 @@ permalink: /publication/
 ---
 
 ## 2025
-* <span style="color:red; font-family:'Courier New', Courier, monospace;">[IJ]</span> Cong Quy Nguyen, Sunglok Choi, **Generalized Camera Calibration: Camera Model Selection and Calibration with Effective Image Sampling**, IEEE Sensors Journal (Early Access), 2025 [DOI](https://doi.org/10.1109/JSEN.2025.3581377) [Github](https://github.com/mint-lab/mint_camera_calib)
+* <span style="color:red; font-family:'Courier New', Courier, monospace;">[IJ]</span> Cong Quy Nguyen, Sunglok Choi, **Generalized Camera Calibration: Camera Model Selection and Calibration with Effective Image Sampling**, IEEE Sensors Journal, Vol. 25, No. 15, 2025 [DOI](https://doi.org/10.1109/JSEN.2025.3581377) [Github](https://github.com/mint-lab/mint_camera_calib)
 * <span style="color:red; font-family:'Courier New', Courier, monospace;">[IJ]</span> Dongwook Heo, Hyunkil Hwang, Jinwon Choi, Sunglok Choi, **Leveraging GNSS Accuracy with a Barometer**, IEEE Sensors Journal, Vol. 25, No. 13, 2025 [DOI](https://doi.org/10.1109/JSEN.2025.3568843)
 * <span style="color:green; font-family:'Courier New', Courier, monospace;">[DC]</span> Cong Quy Nguyen, Sunglok Choi, **MINT Camera Calibration Toolbox**, Korea Robotics Society Annual Conference (KRoC), 2025 [Github](https://github.com/mint-lab/mint_camera_calib)
 * <span style="color:green; font-family:'Courier New', Courier, monospace;">[DC]</span> 허동욱, 최성록, **GNSS와 기압계 센서융합을 통한 정밀한 3차원 측위 기법**, 한국로봇종합학술대회 (KRoC), 2025년

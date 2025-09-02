@@ -40,4 +40,4 @@ permalink: /alumni/
 * **Hyebin Lee** [[Github]](https://github.com/splopsky) (graduated in February 2023)
   * Undergraduate Student (2022-Summer, 2023-Winter)
   * Contribution: RGB-D Structure-from-Motion
-  * Next: Graduate School at Ewha Womans University
+  * Next: Graduate School at Ewha Womans University (Now: [KRIT](https://www.krit.re.kr/))
