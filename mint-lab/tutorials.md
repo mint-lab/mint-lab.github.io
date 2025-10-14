@@ -25,13 +25,14 @@ We would like to share our tutorials with lectures slides and code examples. The
 ## Survey Articles
 We wrote some survey articles while preparing our research. They are mostly written in Korean.
 
+* 정다예나, 오시영, 최성록, **확산 모델 기반 이미지 데이터 증강 기술 동향 분석**, 제어로봇시스템학회지, 31권 3호, 2025년 [PDF](https://mint-lab.github.io/mint-lab/papers/Jeong25_icros.pdf) [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12402661)
 * 최진원, 허동욱, Nguyen Cong Quy, 서찬호, 장인성, 최성록, **공간 표현과 입력 영상 관점에서 살펴본 Visual Localization 연구 동향 분석**, 제어로봇시스템학회지, 30권 3호, 2024년 [PDF](https://mint-lab.github.io/mint-lab/papers/Choi24_icros_vloc.pdf) [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11938166)
 * 서찬호, Nguyen Cong Quy, 허동욱, 최성록, **다중객체추적(Multiple Object Tracking) 기술 동향 분석**, 제어로봇시스템학회지, 30권 2호, 2024년 [PDF](https://mint-lab.github.io/mint-lab/papers/Seo24_icros_mot.pdf) [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11839904)
 * 최준혁, 최성록, **NeRF의 원리와 기술 동향**, 제어로봇시스템학회지, 28권 4호, 2022년 [PDF](https://mint-lab.github.io/mint-lab/papers/Choi22_icros_nerf.pdf) [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11178497)
 * 최준혁, 최성록, **카메라 캘리브레이션의 원리와 기술 동향**, 제어로봇시스템학회지, 28권 2호, 2022년 [PDF](https://mint-lab.github.io/mint-lab/papers/Choi22_icros_calib.pdf) [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11077417)
 * 최성록, 최중용, 김현주, **Visual SLAM을 통해 살펴본 SLAM 기술의 변화와 흐름**, 로봇과 인간, 18권 4호, 2021년 [PDF](https://mint-lab.github.io/mint-lab/papers/Choi21_kros.pdf) [Magazine](http://kros.org/journal/journal04_list.asp) [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10620198)
 * 최성록, 김동형, 이재영, 박승환, 서범수, 박병재, 송병열, 김중배, 유원필, 조재일, **제4차 산업혁명 시대의 물류/배송로봇의 동향 및 시사점**, 전자통신동향분석, 34권 4호, 2019년 [DOI](http://doi.org/10.22648/ETRI.2019.J.340410) [PDF](http://ettrends.etri.re.kr/ettrends/178/0905178010/34-4_98-107.pdf) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08759206)
-* 최성록, **단안 카메라를 이용한 3차원 인지 기술 소개**, 기계저널, 59권 5호, 2019년 5월 [PDF](http://ksme.or.kr/Upload/Board/기계저널59권5호 기계저널 5월호.pdf) [Magazine](http://ksme.or.kr/sub/sub2_6.asp?top_param=2&sub_param=6)
+* 최성록, **단안 카메라를 이용한 3차원 인지 기술 소개**, 기계저널, 59권 5호, 2019년 5월 [PDF](http://ksme.or.kr/Upload/Board/기계저널59권5호 기계저널 5월호.pdf) [Magazine](https://ksme.or.kr/board/board.asp?b_cate=BBS9&top_param=6&sub_param=9) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08281066)
 * 최성록, 선재상, 김종환, **다개체 축구로봇 기술과 그 응용 및 연구 방향**, 로봇과 인간, 4권 4호, 2007년 [Magazine](http://kros.org/journal/journal04_list.asp) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02147524)
 
 

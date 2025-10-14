@@ -76,7 +76,7 @@ permalink: /publication2020/
 * 최성록, 김동형, 이재영, 박승환, 서범수, 박병재, 송병열, 김중배, 유원필, 조재일, **제4차 산업혁명 시대의 물류/배송로봇의 동향 및 시사점**, 전자통신동향분석, 34권 4호, 2019년 [PDF](http://ettrends.etri.re.kr/ettrends/178/0905178010/34-4_98-107.pdf) [DOI](http://doi.org/10.22648/ETRI.2019.J.340410)
 * 최성록, **단안 카메라를 이용한 3차원 인지 기술 소개**, 기계저널, 59권 5호, 2019년 5월 [PDF](http://ksme.or.kr/Upload/Board/기계저널59권5호 기계저널 5월호.pdf) [Magazine](http://ksme.or.kr/sub/sub2_6.asp?top_param=2&sub_param=6)
 * 최성록, **IROS 2016: 로봇 주행 연구 동향**, 로봇과 인간, 14권 1호, 2017년 [Magazine](http://www.kros.org/website/04publication05.php?code=as_publication&mode=lis&page_p=1&pid=53)
-* 이경미, 최성록, **제4차 산업혁명시대의 ICT 융합형 재난안전 R&D 발전방향**, KISTEP Issue Paper 2016-06, 2016년 [PDF](http://www.kistep.re.kr/getFileDown.jsp?fileIdx=6415&contentIdx=10213&tbIdx=BRD_BOARD) [IssuePaper](http://www.kistep.re.kr/c3/sub3.jsp?brdType=R&bbIdx=10213)
+* 이경미, 최성록, **제4차 산업혁명시대의 ICT 융합형 재난안전 R&D 발전방향**, KISTEP Issue Paper 2016-06, 2016년 [PDF](https://www.kistep.re.kr/ease_src/synap/skin/doc.html?imageConverting=true&key=1464917248360.pdf&contextPath=/synap/attachFiles/board/0031/1464917248360.pdf) [Magazine](https://www.kistep.re.kr/board.es?mid=a10306010000&bid=0031&b_list=10&act=view&list_no=35309&nPage=63)
 * 계중읍, 조재일, 유원필, 최성록, 박재현, **측면주사음탐기 센서 기술 동향 및 응용**, 전자통신동향분석, 28권 6호, 2013년 [PDF](http://ettrends.etri.re.kr/ettrends/downloadPdf.do?paperno=0905001912) [DOI](http://doi.org/10.22648/ETRI.2013.J.280617)
 * 최성록, **IEEE ICRA 2012 참관기**, 로봇과 인간, 9권 3호, 2012년 [Magazine](http://www.kros.org/website/04publication05.php?code=as_publication&mode=lis&page_p=1&pid=35)
 * 유원필, 최성록, 이재영, 박승환, **로봇주행 기술 및 표준화 동향 (하)**, 월간 로봇기술, 2012년 11월, pp 72-75 [Magazine](http://www.engzine.com/ebook/ecatalog.asp?Dir=40&catimage=2&callmode=normal_cata)
