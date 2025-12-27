@@ -13,10 +13,6 @@ permalink: /members/
 
 
 ## Graduate Students
-* **Cong Quy Nguyen** [[Github]](https://github.com/ncquy)
-  * Master Student (joined since September 2023)
-  * Research Interests: Computer Vision, Deep Learning
-  * E-mail: <nguyencongquy.ncq@gmail.com>
 * **Dongwook Heo** [[Github]](https://github.com/dongwookheo)
   * Master Student (joined since February 2024)
   * Research Interests: Visual SLAM
@@ -25,6 +21,12 @@ permalink: /members/
   * Master Student (joined since April 2025)
   * Research Interests: 3D Computer Vision
   * E-mail: <pasteldiana@seoultech.ac.kr>
+* **Mingi Choi** [[Github]](https://github.com/Mean-Key)
+  * Master Student (joined since January 2025)
+  * E-mail: <chlalsrl1015@naver.com>
+* **Chihyuk Min** [[Github]](https://github.com/minchi0304)
+  * Master Student (joined since February 2025)
+  * E-mail: <minchihyeok0304@gmail.com>
 
 
 
@@ -37,11 +39,19 @@ permalink: /members/
   * Undergraduate Student (joined since July 2025)
   * Research Interests: Computer Vision
   * E-mail: <kimdaevvon@gmail.com>
-
-
-
-## Collaborators
-* **Siyeong Oh** [[Github]](https://github.com/siyeong0) [[Blog]](https://chaeso0.tistory.com)
-  * Collaborator (joined since July 2025)
-  * Research Interests: 3D Computer Vision and Graphics
-  * E-mail: <sy1211w@gmail.com>
+* **Seungpyo Jeon** [[Github]](https://github.com/SeungPyo-Jeon)
+  * Undergraduate Student (joined since January 2026)
+  * Research Interests: 3D Computer Vision, Spaital Intelligence
+  * E-mail: <tmdvy1468+lab@gmail.com>
+* **SeoHyun Park** [[Github]](https://github.com/xeohyun)
+  * Undergraduate Student (joined since January 2026)
+  * Research Interests: -
+  * E-mail: <psh30108@seoultech.ac.kr>
+* **Kyoosuk Hwang** [[Github]](https://github.com/kstone-285)
+  * Undergraduate Student (joined since January 2026)
+  * Research Interests: Computer Vision, Robotics
+  * E-mail: <kyoosuk99@seoultech.ac.kr>
+* **Hyojun Choi** [[Github]](https://github.com/perryhj)
+  * Undergraduate Student (joined since January 2026)
+  * Research Interests: AI Learning, Computer Vision
+  * E-mail: <perrychoi1234@gmail.com>

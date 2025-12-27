@@ -37,6 +37,11 @@ permalink: /robots/
     * CPU: AMD Rygen Threadripper 7980X (64 cores, 128 threads)
     * GPU: NVIDIA Geforce RTX 4090 (16,384 CUDA cores, 24 GB) x 2
     * RAM: DDR5 256 GB
+* **Hades**
+  * Specification
+    * CPU: AMD Rygen Threadripper 7970X (32 cores, 64 threads)
+    * GPU: NVIDIA Geforce RTX 5090 (21,760 CUDA cores, 32 GB) x 2
+    * RAM: DDR5 256 GB
 * **SEOULTECH Supercomputer Data Center**
   * [CPU Servers](https://seoultechlab.kr/EquipView.asp?EquipID=323): ASUS RS700-E10
     * CPU: Intel Xeon Gold 6342 (24 cores, 48 threads) x 2
