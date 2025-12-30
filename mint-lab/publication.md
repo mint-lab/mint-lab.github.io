@@ -4,9 +4,17 @@ title : Publication
 permalink: /publication/
 ---
 
+## 2026
+* <span style="color:green; font-family:'Courier New', Courier, monospace;">[DC]</span> 허동욱, 최진원, 위현중, 장인성, 최성록, **항공사진을 활용한 UAV의 영상기반 지리적 위치추정**, 한국로봇종합학술대회 (KRoC), 2026년
+* <span style="color:green; font-family:'Courier New', Courier, monospace;">[DC]</span> 정다예나, 최성록, **Stable Diffusion 기반 객체 텍스처 증강을 통한 도시 장면 분할 성능 향상**, 한국로봇종합학술대회 (KRoC), 2026년
+* <span style="color:green; font-family:'Courier New', Courier, monospace;">[DC]</span> 김대원, 오시영, 최성록, **평면 제약조건을 이용한 로봇 그리퍼의 7-DOF 자세 추정**, 한국로봇종합학술대회 (KRoC), 2026년
+
+
+
 ## 2025
 * <span style="color:red; font-family:'Courier New', Courier, monospace;">[IJ]</span> Cong Quy Nguyen, Sunglok Choi, **Generalized Camera Calibration: Camera Model Selection and Calibration with Effective Image Sampling**, IEEE Sensors Journal, Vol. 25, No. 15, 2025 [DOI](https://doi.org/10.1109/JSEN.2025.3581377) [Github](https://github.com/mint-lab/mint_camera_calib)
 * <span style="color:red; font-family:'Courier New', Courier, monospace;">[IJ]</span> Dongwook Heo, Hyunkil Hwang, Jinwon Choi, Sunglok Choi, **Leveraging GNSS Accuracy with a Barometer**, IEEE Sensors Journal, Vol. 25, No. 13, 2025 [DOI](https://doi.org/10.1109/JSEN.2025.3568843)
+* <span style="color:blue; font-family:'Courier New', Courier, monospace;">[IC]</span> Dayena Jeong, Dongwook Heo, Seonghyeok Ahn, Jonggeun Choi, and Sunglok Choi, **SGGA: Semantic-Guided Generative Augmentation for Object Detection in Highly Imbalanced Disaster Imagery**, International Conference on Control, Automation and Systems (ICCAS), 2025 (ICCAS with IJCAS Option) [PDF](../mint-lab/papers/Jeong25_iccas.pdf) [Github](https://github.com/DayenaJeong/SGGA-for-Disaster-Detection)
 * <span style="color:orange; font-family:'Courier New', Courier, monospace;">[DJ]</span> 정다예나, 오시영, 최성록, **확산 모델 기반 이미지 데이터 증강 기술 동향 분석**, 제어로봇시스템학회지, 31권 3호, 2025년 [PDF](https://mint-lab.github.io/mint-lab/papers/Jeong25_icros.pdf) [Magazine](http://icros.org/publication/sub03_04.asp?sub_param=4) [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12402661)
 * <span style="color:green; font-family:'Courier New', Courier, monospace;">[DC]</span> Cong Quy Nguyen, Sunglok Choi, **MINT Camera Calibration Toolbox**, Korea Robotics Society Annual Conference (KRoC), 2025 [Github](https://github.com/mint-lab/mint_camera_calib)
 * <span style="color:green; font-family:'Courier New', Courier, monospace;">[DC]</span> 허동욱, 최성록, **GNSS와 기압계 센서융합을 통한 정밀한 3차원 측위 기법**, 한국로봇종합학술대회 (KRoC), 2025년
@@ -29,7 +37,7 @@ permalink: /publication/
 
 ## 2023
 * <span style="color:red; font-family:'Courier New', Courier, monospace;">[IJ]</span> Juhoon Back, Chang-Sei Kim, and Sunglok Choi, **Guest Editorial: The 38th ICROS Annual Conference (ICROS 2023)**, International Journal of Control, Automation, and Systems, Vol. 21, No. 11, 2023 [DOI](https://doi.org/10.1007/s12555-023-9903-y)
-* <span style="color:blue; font-family:'Courier New', Courier, monospace;">[IC]</span> Hyunkil Hwang, Jun Hyeok Choi, Chan Ho Seo, and Sunglok Choi, **Fast Multiple 3D Plane Detection from Depth Images**, International Conference on Ubiquitous Robots (UR), 2023 [PDF](../mint-lab/papers/Hwang23_ur.pdf) (Working-in-progress Paper) [Github](https://github.com/mint-lab/planefill)
+* <span style="color:blue; font-family:'Courier New', Courier, monospace;">[IC]</span> Hyunkil Hwang, Jun Hyeok Choi, Chan Ho Seo, and Sunglok Choi, **Fast Multiple 3D Plane Detection from Depth Images**, International Conference on Ubiquitous Robots (UR), 2023 (Working-in-progress Paper) [PDF](../mint-lab/papers/Hwang23_ur.pdf) [Github](https://github.com/mint-lab/planefill)
 * <span style="color:blue; font-family:'Courier New', Courier, monospace;">[IC]</span> Cheonin Oh, Sungwoong Shin, Daesub Yoon, and Sunglok Choi, **Vehicle Map Mapping and Parking Occupancy Estimation System with No Ambiguity**, IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023 [DOI](https://doi.org/10.1109/SMC53992.2023.10394312)
 * <span style="color:green; font-family:'Courier New', Courier, monospace;">[DC]</span> 최준혁, 신현규, 최해솔, 이아현, 이강우, 최성록, **도심 환경의 다수 카메라에서 3차원 위치기반 물체 추적**, 한국로봇종합학술대회 (KRoC), 2023년
 * <span style="color:green; font-family:'Courier New', Courier, monospace;">[DC]</span> 박태정, 양희란, 최장훈, 송준영, 최성록, 이치범, **스페클 패턴과 초고속 카메라를 이용한 미소 진폭의 진동 측정**, 한국소음진동공학회 추계학술대회, 2023년
