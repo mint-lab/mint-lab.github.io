@@ -22,10 +22,12 @@ permalink: /members/
   * Research Interests: 3D Computer Vision
   * E-mail: <pasteldiana@seoultech.ac.kr>
 * **Mingi Choi** [[Github]](https://github.com/Mean-Key)
-  * Master Student (joined since January 2025)
+  * Master Student (joined since January 2026)
+  * Research Interest: AI, Security
   * E-mail: <chlalsrl1015@naver.com>
 * **Chihyuk Min** [[Github]](https://github.com/minchi0304)
-  * Master Student (joined since February 2025)
+  * Master Student (joined since February 2026)
+  * Research Interest: Computer Vision
   * E-mail: <minchihyeok0304@gmail.com>
 
 
