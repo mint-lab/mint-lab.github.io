@@ -5,7 +5,7 @@ permalink: /publication/
 ---
 
 ## 2026
-* <span style="color:red; font-family:'Courier New', Courier, monospace;">[IJ]</span> Sahoon Ahn\*, Dongwook Heo\*, Joonhyuk Kwon\*, Jihong Kim, Sunglok Choi, TaeWon Seo, **Facade Operation Robots on Irregular Buildings: A Survey and Perspective on Mechanism, Perception, Control, and Planning**, International Journal of Precision Engineering and Manufacturing-Green Technology (IJPEM-GT), 2026 (\*These authors contributed equally to this work.) (Conditionally Accepted)
+* <span style="color:red; font-family:'Courier New', Courier, monospace;">[IJ]</span> Sahoon Ahn\*, Dongwook Heo\*, Joonhyuk Kwon\*, Jihong Kim, Sunglok Choi, TaeWon Seo, **Facade Operation Robots on Irregular Buildings: A Survey and Perspective on Mechanism, Perception, Control, and Planning**, International Journal of Precision Engineering and Manufacturing-Green Technology (IJPEM-GT), 2026 (\*Equal Contribution; Conditionally Accepted)
 * <span style="color:red; font-family:'Courier New', Courier, monospace;">[IJ]</span> Dayena Jeong, Dongwook Heo, Seonghyeok Ahn, Jonggeun Choi, and Sunglok Choi, **SGGA: Semantic-Guided Generative Augmentation for Object Detection in Highly Imbalanced Disaster Imagery**, International Journal of Control, Automation and Systems (IJCAS), 2026 (Accepted) [Github](https://github.com/DayenaJeong/SGGA-for-Disaster-Detection)
 * <span style="color:green; font-family:'Courier New', Courier, monospace;">[DC]</span> 허동욱, 최진원, 위현중, 장인성, 최성록, **항공사진을 활용한 UAV의 영상기반 지리적 위치추정**, 한국로봇종합학술대회 (KRoC), 2026년
 * <span style="color:green; font-family:'Courier New', Courier, monospace;">[DC]</span> 정다예나, 최성록, **Stable Diffusion 기반 객체 텍스처 증강을 통한 도시 장면 분할 성능 향상**, 한국로봇종합학술대회 (KRoC), 2026년

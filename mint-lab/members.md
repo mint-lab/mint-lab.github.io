@@ -26,7 +26,7 @@ permalink: /members/
   * Research Interest: AI, Security
   * E-mail: <chlalsrl1015@naver.com>
 * **Chihyuk Min** [[Github]](https://github.com/minchi0304)
-  * Master Student (joined since February 2026)
+  * Master Student (joined since March 2026)
   * Research Interest: Computer Vision
   * E-mail: <minchihyeok0304@gmail.com>
 
