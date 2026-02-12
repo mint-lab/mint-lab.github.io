@@ -13,10 +13,6 @@ permalink: /members/
 
 
 ## Graduate Students
-* **Dongwook Heo** [[Github]](https://github.com/dongwookheo)
-  * Master Student (joined since February 2024)
-  * Research Interests: Visual SLAM
-  * E-mail: <hdwook3918@gmail.com>
 * **Dayena Jeong** [[Github]](https://github.com/DayenaJeong) [[LinkedIn]](https://www.linkedin.com/in/dayena-jeong/)
   * Master Student (joined since April 2025)
   * Research Interests: 3D Computer Vision
