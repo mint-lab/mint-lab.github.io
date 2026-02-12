@@ -4,10 +4,15 @@ title : Alumni
 permalink: /alumni/
 ---
 ## Graduate Alumni
+* **Dongwook Heo** [[Github]](https://github.com/dongwookheo) (graduated in February 2026)
+  * Master Student (February 2024 - January 2026)
+    * Thesis) Robust Localization Approach with Sensor Fusion and Prior Information <span style="color:red;">"Outstanding Thesis Award"</span>
+  * Contribution: Multi-modal Outdoor Localization, Visual Place Recognition for UAV with Aerial Images, [mint_barometer_ros](https://github.com/mint-lab/mint_barometer_ros), [mint_watchdog_ros](https://github.com/mint-lab/mint_watchdog_ros), [mint_cart_ros](https://github.com/mint-lab/mint_cart_ros), [mint_tools_ros](https://github.com/mint-lab/mint_tools_ros)
+  * Next: [Korea Institute of Robotics and Technology Convergence (KIRO)](https://www.kiro.re.kr/)
 * **Cong Quy Nguyen** [[Github]](https://github.com/ncquy) (graduated in August 2025)
   * Master Student (September 2023 - August 2025)
     * Thesis) GenTrack: Generalized Multi-Object Tracking with 3D Motion and Visual Appearance [[RISS]](https://www.riss.kr/link?id=T17289461)
-  * Contribution: [ROI Picker](https://github.com/mint-lab/roi_picker), [Generalized Camera Calibration](https://github.com/mint-lab/mint_camera_calib), Generalized Multi-Object Tracking
+  * Contribution: [ROI Picker](https://github.com/mint-lab/roi_picker), [Generalized Camera Calibration](https://github.com/mint-lab/mint_camera_calib), Multi-Object Tracking
   * Next: [CNRS](https://www.cnrs.fr/en) (for Ph.D. Degree)
 * **Jin Won Choi** [[Github]](https://github.com/randomwons) (graduated in February 2025)
   * Master Student (February 2023 - February 2025)

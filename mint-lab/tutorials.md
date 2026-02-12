@@ -22,6 +22,13 @@ We would like to share our tutorials with lectures slides and code examples. The
 
 
 
+## Collaborative Tutorials
+* **[Spatial AI Tutorial](https://sites.google.com/view/kroc26-spatial-ai-tutorial/)** **at KRoC 2026**
+  * A team-based tutorial on SLAM and related topics such as 3D vision, graph optimization, point cloud registration, IMU integration, and visual SLAM
+
+
+
+
 ## Survey Articles
 We wrote some survey articles while preparing our research. They are mostly written in Korean.
 
