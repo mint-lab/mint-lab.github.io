@@ -40,7 +40,7 @@ permalink: /members/
 * **Seungpyo Jeon** [[Github]](https://github.com/SeungPyo-Jeon)
   * Undergraduate Student (joined since January 2026)
   * Research Interests: 3D Computer Vision, Spaital Intelligence
-  * E-mail: <tmdvy1468+lab@gmail.com>
+  * E-mail: [tmdvy1468+lab@gmail.com](mailto:tmdvy1468+lab@gmail.com)
 * **SeoHyun Park** [[Github]](https://github.com/xeohyun)
   * Undergraduate Student (joined since January 2026)
   * Research Interests: -

@@ -15,7 +15,7 @@ _MINT Lab_ wants to apply our research results not only to academic papers but a
 ## News
 * 2026/03/01 - _Chihyuk Min_ joined the lab as a master student.
 * 2026/02/12 - *Dongwook Heo* won the <span style="color:red;">Outstanding Thesis Award</span> at his graduation ceremony.
-* 2026/02/06 - *Dongwook Heo* and _Jin Won Choi_ won the <span style="color:red;">Best Paper Award</span> in KRoC 2026. [[Media Coverage]](https://www.irobotnews.com/news/articleView.html?idxno=44808)
+* 2026/02/06 - *Dongwook Heo* and _Jin Won Choi_ won the <span style="color:red;">Best Paper Award</span> in KRoC 2026. [[Media Coverage]](https://www.irobotnews.com/news/articleView.html?idxno=44808) [[School News]](https://www.seoultech.ac.kr/intro/infobox/research?do=commonview&searchtext=&searchtype=-1&nowpage=1&bnum=58276&bidx=886989&cate=14)
 * 2026/01/01 - _Seungpyo Jeon_, _SeoHyun Park_, _Kyoosuk Hwang_, and _Hyojun Choi_ joined the lab as undergraduate students.
 * 2026/01/01 - _Mingi Choi_ joined the lab as a master student.
 * 2025/07/01 - _Daewon Kim_ and _Siyeong Oh_ joined the lab as undergraduate student and collaborator.
