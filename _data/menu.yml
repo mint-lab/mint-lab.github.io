@@ -10,6 +10,8 @@
       subhref : "/robots/"
     - subtitle: "Alumni"
       subhref : "/alumni/"
+    - subtitle: "M&M Joint Workshops"
+      subhref : "https://mint-lab.notion.site/M-M-s-Joint-Workshop-25cfee0c37758094bd10d90485171d66"
 
 - title: "Publication"
   href : "/publication/"

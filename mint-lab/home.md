@@ -13,6 +13,7 @@ _Mobile Intelligence Laboratory_ (shortly **_<span style="color:#034b03">MINT La
 _MINT Lab_ wants to apply our research results not only to academic papers but also to real-world problems. We have a definite research goal as **<span style="color:#034b03">mobile intelligence for solving real-world problems</span>**. We hope that our research makes our world and society better. To fulfill the mission, _MINT Lab_ and its members strive for **<span style="color:#034b03">sharing, collaboration, and mutual growth</span>**.
 
 ## News
+* 2026/03/30 - _Dayena Jeong_ has been accepted into the [ETH Robotics Student Fellowship](https://robotx.ethz.ch/education/robotics-student-fellowship.html) 2026.
 * 2026/03/01 - _Chihyuk Min_ joined the lab as a master student.
 * 2026/02/12 - *Dongwook Heo* won the <span style="color:red;">Outstanding Thesis Award</span> at his graduation ceremony.
 * 2026/02/06 - *Dongwook Heo* and _Jin Won Choi_ won the <span style="color:red;">Best Paper Award</span> in KRoC 2026. [[Media Coverage]](https://www.irobotnews.com/news/articleView.html?idxno=44808) [[School News]](https://www.seoultech.ac.kr/intro/infobox/research?do=commonview&searchtext=&searchtype=-1&nowpage=1&bnum=58276&bidx=886989&cate=14)
