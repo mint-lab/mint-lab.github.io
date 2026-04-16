@@ -9,7 +9,7 @@ permalink: /sunglok/
 ## Sunglok Choi (최성록)
 
 Assistant Professor, Ph. D.<br>
-[Computer Science and Engineering Department](https://computer.seoultech.ac.kr/)<br>
+[Dept. of Computer Science and Engineering](https://computer.seoultech.ac.kr/)<br>
 [Seoul National University of Science and Technology (SEOULTECH)](https://en.seoultech.ac.kr/)
 
 
