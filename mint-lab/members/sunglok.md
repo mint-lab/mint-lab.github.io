@@ -32,19 +32,13 @@ Assistant Professor, Ph. D.<br>
 ## Education
 * [Korea Advanced Institute of Science and Technology (KAIST)](http://www.kaist.ac.kr/), September 2014 - February 2019
   * Doctor of Philosophy in Robotics
-    * Thesis: *Efficient 3D Visual Perception for Intelligent Surveillance and Autonomous Navigation* (Advisor: Prof. Jong-Hwan Kim), 2019 [KAIST Library](http://library.kaist.ac.kr/thesis02/2019/2019D020145539_S1.pdf)
-      * Open-source Software: [3D Vision Tutorial](https://github.com/mint-lab/3dv_tutorial/)
-
+  
 * [Korea Advanced Institute of Science and Technology (KAIST)](http://www.kaist.ac.kr/), March 2006 - February 2008
   * Master of Science in Robotics
-    * Thesis: *Robust Parameter Estimators for Dynamic Data Distribution and Its Application to Landmark-based Localization* (Advisor: Prof. Jong-Hwan Kim), 2008 [KAIST Library](http://library.kaist.ac.kr/thesis02/2008/2008M020063575_S1Ver2.pdf)
-      * Open-source Software: [RANSAC Template Library](http://github.com/mint-lab/rtl) and [Triangulation Toolbox](https://github.com/mint-lab/TriangulationToolbox).
-
+  
 * [Seoul National University (SNU)](http://www.snu.ac.kr/), March 2001 - February 2006 **"Cum Laude"**
   * Bachelor of Science in Mechanical Engineering (Double Major)
-    * Thesis: *Three New Algorithms for Vision-based Mouse in Embedded System* (Advisor: Prof. Kunwoo Lee), 2004 **"Best Presentation Award"**
   * Bachelor of Science in Electrical Engineering (Double Major)
-    * Thesis: *Design and Development of x86 and Linux based Mobile Robot Platform* (Advisor: Prof. [Hyungbo Shim](http://hshim.wordpress.com/)), 2006 [SNU Library](https://snu-primo.hosted.exlibrisgroup.com/permalink/f/1fgjt92/82SNU_INST21484589280002591)
   * Bachelor of Science in Computer Science Engineering (Minor)
 
 
