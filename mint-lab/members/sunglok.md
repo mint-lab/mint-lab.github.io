@@ -68,16 +68,11 @@ Assistant Professor, Ph. D.<br>
   * Division: AI Research Laboratory
 * **The 13th Korea Robotics Society Annual Conference (KRoC)**, [Korea Robotics Society (KROS)](http://www.kros.org/), January 2018
   * [AFCV](http://www.afcv.org.cn/) Best Robot Vision Paper Award
-  * Paper: Comparison on Visual Features for Life-long Intelligent Visual Surveillance
 * **The 14th International Conference on Control, Automation and Systems (ICCAS)**, [Institute of Control, Robotics and Systems (ICROS)](http://www.icros.org/), October 2014
   * Best Presentation Award
-  * Paper: Robust Ground Plane Detection from 3D Point Clouds
 * **The 6th International Conference on Ubiquitous Robot and Ambient Intelligence (URAI)**, [Korea Robotics Society (KROS)](http://www.kros.org/), October 2009
   * Outstanding Paper Award (Poster Paper Category)
-  * Paper: Guided Path Planning for Proximity Location Sensors
 * **2007 FIRA RoboWorld Cup USA**, [Federation of International Robot-Sport Association (FIRA)](http://www.fira.net/), June 2007
-  * The 2nd Prize in the RoboSot Category
-  * Team: KAIST OmniBots
+  * The 2nd Prize in the RoboSot Category (Team: KAIST OmniBots)
 * **2005 [Korea Intelligent Robot Contest (KIRC)](http://kiro.re.kr/cul/cintro.asp)**, Gyeongsangbuk-Do Province, October 2005
-  * [Honor Prize](http://kiro.re.kr/cul/hon.asp?cyear=2005)
-  * Work: A Security Robot using USB Camera and WLAN, _Integral_
+  * [Honor Prize](http://kiro.re.kr/cul/hon.asp?cyear=2005) (Team: Integral)
