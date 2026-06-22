@@ -6,7 +6,7 @@ permalink: /alumni/
 ## Graduate Alumni
 * **Dongwook Heo** [[Github]](https://github.com/dongwookheo) (graduated in February 2026)
   * Master Student (February 2024 - January 2026)
-    * Thesis) Robust Localization Approach with Sensor Fusion and Prior Information <span style="color:red;">"Outstanding Thesis Award"</span>
+    * Thesis) Robust Localization Approach with Sensor Fusion and Prior Information [[RISS]](https://www.riss.kr/link?id=T17391008) <span style="color:red;">"Outstanding Thesis Award"</span>
   * Contribution: Multi-modal Outdoor Localization, Visual Place Recognition for UAV with Aerial Images, [mint_barometer_ros](https://github.com/mint-lab/mint_barometer_ros), [mint_watchdog_ros](https://github.com/mint-lab/mint_watchdog_ros), [mint_cart_ros](https://github.com/mint-lab/mint_cart_ros), [mint_tools_ros](https://github.com/mint-lab/mint_tools_ros)
   * Next: [Korea Institute of Robotics and Technology Convergence (KIRO)](https://www.kiro.re.kr/)
 * **Cong Quy Nguyen** [[Github]](https://github.com/ncquy) (graduated in August 2025)
@@ -54,4 +54,4 @@ permalink: /alumni/
 * **Hyebin Lee** [[Github]](https://github.com/splopsky) (graduated in February 2023)
   * Undergraduate Student (2022-Summer, 2023-Winter)
   * Contribution: RGB-D Structure-from-Motion
-  * Next: Graduate School at Ewha Womans University (Now: [KRIT](https://www.krit.re.kr/))
+  * Next: Graduate School at Ewha Womans University / Now: [KRIT](https://www.krit.re.kr/)

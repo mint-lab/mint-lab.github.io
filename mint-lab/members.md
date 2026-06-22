@@ -25,31 +25,38 @@ permalink: /members/
   * Master Student (joined since March 2026)
   * Research Interest: Computer Vision
   * E-mail: <minchihyeok0304@gmail.com>
+* **Seungpyo Jeon** [[Github]](https://github.com/SeungPyo-Jeon)
+  * Master Student (joined since January 2026 including his undergraduate period)
+  * Research Interests: 3D Computer Vision, Spaital Intelligence
+  * E-mail: [tmdvy1468+lab@gmail.com](mailto:tmdvy1468+lab@gmail.com)
 
 
 
 ## Undergraduate Students
 * **Sung-Hyeon Kim** [[Github]](https://github.com/gogog01-29-2021) [[LinkedIn]](https://www.linkedin.com/in/seonghyun-kim-419b81203/) [[YouTube]](https://www.youtube.com/@SphereofTime)
-  * Undergraduate Student (joined since July 2024)
+  * Undergraduate Student (2025-Winter)
   * Research Interests: Bayesian Filtering
   * E-mail: <ironwar0000@naver.com>
 * **Daewon Kim** [[Github]](https://github.com/KimDaevvon)
-  * Undergraduate Student (joined since July 2025)
+  * Undergraduate Student (2025-Summer, 2026-Spring)
   * Research Interests: Computer Vision
   * E-mail: <kimdaevvon@gmail.com>
-* **Seungpyo Jeon** [[Github]](https://github.com/SeungPyo-Jeon)
-  * Undergraduate Student (joined since January 2026)
-  * Research Interests: 3D Computer Vision, Spaital Intelligence
-  * E-mail: [tmdvy1468+lab@gmail.com](mailto:tmdvy1468+lab@gmail.com)
 * **SeoHyun Park** [[Github]](https://github.com/xeohyun)
-  * Undergraduate Student (joined since January 2026)
+  * Undergraduate Student (2026-Winter, 2026-Spring, 2026-Summer)
   * Research Interests: -
   * E-mail: <psh30108@seoultech.ac.kr>
 * **Kyoosuk Hwang** [[Github]](https://github.com/kstone-285)
-  * Undergraduate Student (joined since January 2026)
+  * Undergraduate Student (2026-Winter, 2026-Spring)
   * Research Interests: Computer Vision, Robotics
   * E-mail: <kyoosuk99@seoultech.ac.kr>
 * **Hyojun Choi** [[Github]](https://github.com/perryhj)
-  * Undergraduate Student (joined since January 2026)
+  * Undergraduate Student (2026-Winter)
   * Research Interests: AI Learning, Computer Vision
   * E-mail: <perrychoi1234@gmail.com>
+
+
+
+## Collaborator
+* Joongeup Kye
+  * Ph.D., Research Fellow @ [KTL](https://www.ktl.re.kr/)
+  * E-mail: <jekeh66@naver.com>
