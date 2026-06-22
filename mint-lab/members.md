@@ -57,6 +57,6 @@ permalink: /members/
 
 
 ## Collaborator
-* Joongeup Kye
+* Joongeup Kye [[CV]](https://mint-lab.github.io/mint-lab/members/jekye_260126.pdf)
   * Ph.D., Research Fellow @ [KTL](https://www.ktl.re.kr/)
   * E-mail: <jekeh66@naver.com>
