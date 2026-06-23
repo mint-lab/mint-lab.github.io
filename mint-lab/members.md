@@ -9,6 +9,9 @@ permalink: /members/
   * Assistant Professor (joined since March 2021)
   * Research Interests: Robot Navigation, 3D Computer Vision
   * E-mail: <sunglok@seoultech.ac.kr>
+* **Joongeup Kye** [[CV]](https://mint-lab.github.io/mint-lab/members/jekye_260126.pdf)
+  * Adjunct Professor / Research Fellow @ [KTL](https://www.ktl.re.kr/)
+  * E-mail: <jekeh66@naver.com>
 
 
 
@@ -42,7 +45,7 @@ permalink: /members/
   * Research Interests: Computer Vision
   * E-mail: <kimdaevvon@gmail.com>
 * **SeoHyun Park** [[Github]](https://github.com/xeohyun)
-  * Undergraduate Student (2026-Winter, 2026-Spring, 2026-Summer)
+  * Undergraduate Student (2026-Winter/Spring/Summer)
   * Research Interests: -
   * E-mail: <psh30108@seoultech.ac.kr>
 * **Kyoosuk Hwang** [[Github]](https://github.com/kstone-285)
@@ -53,10 +56,11 @@ permalink: /members/
   * Undergraduate Student (2026-Winter)
   * Research Interests: AI Learning, Computer Vision
   * E-mail: <perrychoi1234@gmail.com>
-
-
-
-## Collaborator
-* Joongeup Kye [[CV]](https://mint-lab.github.io/mint-lab/members/jekye_260126.pdf)
-  * Ph.D., Research Fellow @ [KTL](https://www.ktl.re.kr/)
-  * E-mail: <jekeh66@naver.com>
+* **MinUk Jeong** [[Github]](https://github.com/jeongminuk)
+  * Undergraduate Student (2026-Summer)
+  * Research Interests: Computer Vision
+  * E-mail: <mu010221@naver.com>
+* **Chaeyun Kim** [[Github]](https://github.com/jinbaaaaaang)
+  * Undergraduate Student (2026-Summer)
+  * Research Interests: Computer Vision
+  * E-mail: <jinbaaaaang@gmail.com>

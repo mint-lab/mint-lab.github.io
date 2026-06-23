@@ -35,7 +35,7 @@ permalink: /alumni/
 
 ## Undergraduate Alumni
 * **Siyeong Oh** [[Github]](https://github.com/siyeong0) [[Blog]](https://chaeso0.tistory.com)
-  * Collaborator (2025-Summer/Fall)
+  * Collaborative Researcher (2025-Summer/Fall)
   * Contribution: CUDA Tutorial
   * Next: [Pearl Abyss](https://www.pearlabyss.com/)
 * **Hyunkil Hwang** [[Github]](https://github.com/Hyunkil76) (graduated in February 2024)
