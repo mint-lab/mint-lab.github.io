@@ -28,7 +28,7 @@ permalink: /members/
   * Master Student (joined since March 2026)
   * Research Interest: Computer Vision
   * E-mail: <minchihyeok0304@gmail.com>
-* **Seungpyo Jeon** [[Github]](https://github.com/SeungPyo-Jeon)
+* **SeungPyo Jeon** [[Github]](https://github.com/SeungPyo-Jeon)
   * Master Student (joined since January 2026 including his undergraduate period)
   * Research Interests: 3D Computer Vision, Spaital Intelligence
   * E-mail: [tmdvy1468+lab@gmail.com](mailto:tmdvy1468+lab@gmail.com)
