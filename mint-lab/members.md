@@ -6,7 +6,7 @@ permalink: /members/
 
 ## Professors
 * **[Sunglok Choi](/sunglok/)** [[Github]](https://github.com/sunglok) [[Google Scholar]](https://scholar.google.com/citations?user=ckeePCMAAAAJ)
-  * Assistant Professor (joined since March 2021)
+  * Assistant Professor (March 2021 -)
   * Research Interests: Robot Navigation, 3D Computer Vision
   * E-mail: <sunglok@seoultech.ac.kr>
 * **Joongeup Kye** [[CV]](https://mint-lab.github.io/mint-lab/members/jekye_260126.pdf)
@@ -17,20 +17,21 @@ permalink: /members/
 
 ## Graduate Students
 * **Dayena Jeong** [[Github]](https://github.com/DayenaJeong) [[LinkedIn]](https://www.linkedin.com/in/dayena-jeong/)
-  * Master Student (joined since April 2025)
+  * Master Student (April 2025 -)
   * Research Interests: 3D Computer Vision
   * E-mail: <pasteldiana@seoultech.ac.kr>
 * **Mingi Choi** [[Github]](https://github.com/Mean-Key)
-  * Master Student (joined since January 2026)
+  * Master Student (January 2026 -)
   * Research Interest: AI, Security
   * E-mail: <chlalsrl1015@naver.com>
 * **Chihyuk Min** [[Github]](https://github.com/minchi0304)
-  * Master Student (joined since March 2026)
+  * Master Student (March 2026 -)
   * Research Interest: Computer Vision
   * E-mail: <minchihyeok0304@gmail.com>
-* **SeungPyo Jeon** [[Github]](https://github.com/SeungPyo-Jeon)
-  * Master Student (joined since January 2026 including his undergraduate period)
-  * Research Interests: 3D Computer Vision, Spaital Intelligence
+* **Seungpyo Jeon** [[Homepage]](https://seungpyo-jeon.github.io/) [[Github]](https://github.com/SeungPyo-Jeon)
+  * Master Student (September 2026 -)
+  * Undergraduate Student (2026-Winter/Spring/Summer)
+  * Research Interests: 3D Computer Vision, Spatial Intelligence
   * E-mail: [tmdvy1468+lab@gmail.com](mailto:tmdvy1468+lab@gmail.com)
 
 
@@ -49,7 +50,7 @@ permalink: /members/
   * Research Interests: -
   * E-mail: <psh30108@seoultech.ac.kr>
 * **Kyoosuk Hwang** [[Github]](https://github.com/kstone-285)
-  * Undergraduate Student (2026-Winter, 2026-Spring)
+  * Undergraduate Student (2026-Winter/Spring)
   * Research Interests: Computer Vision, Robotics
   * E-mail: <kyoosuk99@seoultech.ac.kr>
 * **Hyojun Choi** [[Github]](https://github.com/perryhj)
