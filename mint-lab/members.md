@@ -65,3 +65,7 @@ permalink: /members/
   * Undergraduate Student (2026-Summer)
   * Research Interests: Computer Vision
   * E-mail: <jinbaaaaang@gmail.com>
+* **Mingyu Jeon** [[Github]](https://github.com/Jadest03)
+  * Undergraduate Student (2026-Summer)
+  * Research Interests: 3D Computer Vision
+  * E-mail: <jadest03@seoultech.ac.kr>

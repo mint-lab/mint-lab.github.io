@@ -37,7 +37,7 @@ permalink: /alumni/
 * **Siyeong Oh** [[Github]](https://github.com/siyeong0) [[Blog]](https://chaeso0.tistory.com)
   * Collaborative Researcher (2025-Summer/Fall)
   * Contribution: CUDA Tutorial
-  * Next: [Pearl Abyss](https://www.pearlabyss.com/)
+  * Next: [Pearl Abyss](https://www.pearlabyss.com/) / Now: [N.LIGHT](https://ndotlight.com/)
 * **Hyunkil Hwang** [[Github]](https://github.com/Hyunkil76) (graduated in February 2024)
   * Undergraduate Student (February 2022 - June 2024)
   * Contribution: [PlaneFill](https://github.com/mint-lab/PlaneFill), [SurfaceGPS](https://github.com/mint-lab/surface_gps/), [sensorpy](https://github.com/mint-lab/sensorpy), [mint-cart-ros](https://github.com/mint-lab/mint_cart_ros), [mint-tools_ros](https://github.com/mint-lab/mint_tools_ros)
