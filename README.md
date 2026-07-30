@@ -1,6 +1,6 @@
 ## Mobile Intelligence Laboratory Homepage
 
-This is the homepage of [Mobile Intelligence Laboratory](https://mint-lab.github.io/) (so-called _MINT Lab_) in [SeoulTech](https://en.seoultech.ac.kr/), Korea.
+This is the homepage of [Mobile Intelligence Laboratory](https://mint-lab.github.io/) (so-called _MINT Lab_) in [SEOULTECH](https://en.seoultech.ac.kr/), Korea.
 
 The homepage has forked from [Steve's No-Good-Very-Bad Jekyll Theme](svmiller/steve-ngvb-jekyll-template). The MINT Lab contents were added with little modification of the original theme. What I did are as follows:
 * Edit `_config.yml` and `_data/menu.yml`
