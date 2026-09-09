@@ -13,7 +13,7 @@ permalink: /alumni/
   * Master Student (September 2023 - August 2025)
     * Thesis) GenTrack: Generalized Multi-Object Tracking with 3D Motion and Visual Appearance [[RISS]](https://www.riss.kr/link?id=T17289461)
   * Contribution: [ROI Picker](https://github.com/mint-lab/roi_picker), [Generalized Camera Calibration](https://github.com/mint-lab/mint_camera_calib), Multi-Object Tracking
-  * Next: [CNRS](https://www.cnrs.fr/en) (for Ph.D. Degree)
+  * Next: Graduate School at [Florida Atlantic University (FAU)](https://www.fau.edu/)
 * **Jin Won Choi** [[Github]](https://github.com/randomwons) (graduated in February 2025)
   * Master Student (February 2023 - February 2025)
     * Thesis) Real-time Camera Next-Best-Viewpoint Selection for Complete 3D Object Reconstruction [[RISS]](https://www.riss.kr/link?id=T17186992)
@@ -42,7 +42,7 @@ permalink: /alumni/
   * Undergraduate Student (February 2022 - June 2024)
   * Contribution: [PlaneFill](https://github.com/mint-lab/PlaneFill), [SurfaceGPS](https://github.com/mint-lab/surface_gps/), [sensorpy](https://github.com/mint-lab/sensorpy), [mint-cart-ros](https://github.com/mint-lab/mint_cart_ros), [mint-tools_ros](https://github.com/mint-lab/mint_tools_ros)
     * Note) The father of _Hwang Cart_
-  * Next: Graduate School at University of Delaware
+  * Next: Graduate School at [University of Delaware](https://www.udel.edu/)
 * **Hyun Gyu Shin** [[Github]](https://github.com/ufshg) (graduated in February 2024)
   * Undergraduate Student (2022-Summer/Fall, 2023-Winter)
   * Contribution: On-plane Visual Geometry, Coverage Planning
