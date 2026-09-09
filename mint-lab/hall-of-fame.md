@@ -8,7 +8,7 @@ This page is a **Hall of Fame** (명예의 전당 in Korean) to honor outstandin
 
 
 
-### (2026-Spring) Computer Vision Term Projects
+## (2026-Spring) Computer Vision Term Projects
 - [MakeYourBrick: Image to 3D Lego Bricks](https://github.com/lloydkwak/MakeYourBrick) (곽동건)
 - [HUWARI: 패션 코디 분석 인공지능](https://github.com/jinbaaaaaang/huwari) (김채윤)
 - [PhotoTrip: 갤러리기반 맞춤 여행지를 추천하는 AI 서비스](https://github.com/ysnni2/PhotoTrip) (양서린)
@@ -24,7 +24,7 @@ This page is a **Hall of Fame** (명예의 전당 in Korean) to honor outstandin
 
 
 
-### (2026-Spring) Digital Logic and Systems Term Projects
+## (2026-Spring) Digital Logic and Systems Term Projects
 - 3D Wireframe Engine (안은빈)
 - Digital Chess Game (위현서)
 - Pokemon Battle (조한결)
@@ -60,4 +60,3 @@ This page is a **Hall of Fame** (명예의 전당 in Korean) to honor outstandin
     <li>16-bit Full CPU (쩐호앙록)</li>
   </ul>
 </details>
-

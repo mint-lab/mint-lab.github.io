@@ -3,6 +3,9 @@ layout: page
 title : Publication until 2020
 permalink: /publication2020/
 ---
+This page contains my work prior to joining SEOULTECH.
+
+
 
 ## Journal/Magazine Articles
 * Sunglok Choi and Jong-Hwan Kim, **Leveraging Localization Accuracy with Off-centered GPS**, IEEE Transactions on Intelligent Transportation Systems, Vol. 21, No. 6, 2020 [DOI](http://doi.org/10.1109/TITS.2019.2915108) [Code](https://github.com/mint-lab/filtering_tutorial)
@@ -11,6 +14,7 @@ permalink: /publication2020/
 * Jaeho Lim, Sunglok Choi, Chang-Beom Kim, Eul-Gyoon Lim, Hyo-Bong Hong, and Jongwon Park, **Surface Roughness Estimation and Visualization using Force Feedback**, Electronics Letters, Vol. 53, No. 25, 2017 [DOI](http://doi.org/10.1049/el.2016.4408)
 * Sunglok Choi, Jaehyun Park, and Wonpil Yu, **Simplified Epipolar Geometry for Real-time Monocular Visual Odometry on Roads**, International Journal of Control, Automation and Systems (IJCAS), Vol. 13, No. 6, 2015 [DOI](http://doi.org/10.1007/s12555-014-0157-6) 
 * M. S. Ryoo, Sunglok Choi+, Ji Hoon Joung+, Jae-Yeong Lee+, and Wonpil Yu, **Personal Driving Diary: Automated Recognition of Driving Events from First-Person Videos**, Computer Vision and Image Understanding (CVIU), Vol. 117, No. 10, 2013 [PDF](http://cvrc.ece.utexas.edu/mryoo/papers/cviu13_driving_ryoo.pdf) [DOI](http://doi.org/10.1016/j.cviu.2013.01.004) [Video](http://www.youtube.com/watch?v=f8hew8iDAmA) (+ indicates equal contribution)
+
 
 
 ## Conference/Workshop Papers
@@ -47,6 +51,7 @@ permalink: /publication2020/
 * Naveen S. Kuppuswamy, Se-Hyoung Cho, Daniel Stonier, Sunglok Choi, and Jong-Hwan Kim, **Design of an Omnidirectional Robot for FIRA RoboSot**, in Proceedings of FIRA Robot World Congress, 2006
 
 
+
 ## Conference/Workshop Extended Abstracts
 * Jae-chan Jeong, Sunglok Choi, Jae-Yeong Lee, Ji-Wan Kim, and Jae-il Cho, **Simple Optimization Toolbox for Engineers**, in Proceedings of International Conference on Ubiquitous Robot and Ambient Intelligence (URAI), 2015 [DOI](http://doi.org/10.1109/URAI.2015.7358973) (Video Paper)
 * Jaeho Lim, Chang-Beom Kim, Sunglok Choi, HyoBong Hong, and Jong Won Park, **Fast Magnetic Field Simulation with Linear System Approach**, in Proceedings of International Conference on Control, Automation and Systems (ICCAS), 2015 [DOI](http://doi.org/10.1109/ICCAS.2015.7364865)
@@ -60,6 +65,7 @@ permalink: /publication2020/
 * Sunglok Choi and Wonpil Yu, **Diff RGB: A Novel Constant Intensity Color Space**, in Proceedings of International Conference on Ubiquitous Robot and Ambient Intelligence (URAI), 2009
 * Sunglok Choi and Wonpil Yu, **Video Stabilization with Reinitialization on Sudden Scene Change**, in Proceedings of International Conference on Ubiquitous Robot and Ambient Intelligence (URAI), 2009
 * Sunglok Choi, Jae-Yeong Lee, and Wonpil Yu, **Multi-level Deceleration Scheme for Accurate Goal Arrival**, in Proceedings of International Conference on Ubiquitous Robot and Ambient Intelligence (URAI), 2009
+
 
 
 ## Ph.D Dissertation
@@ -85,6 +91,7 @@ permalink: /publication2020/
 * 최성록, **IEEE ICRA 2011 참관기**, 로봇과 인간, 8권 3호, 2011년 [Magazine](http://www.kros.org/website/04publication05.php?code=as_publication&mode=lis&page_p=1&pid=31)
 * 최성록, **IEEE ARSO 2010 참관기**, 로봇과 인간, 8권 1호, 2011년 [Magazine](http://www.kros.org/website/04publication05.php?&mode=lis&number=&pid=29)
 * 최성록, 선재상, 김종환, **다개체 축구로봇 기술과 그 응용 및 연구 방향**, 로봇과 인간, 4권 4호, 2007년 [Magazine](http://www.kros.org/website/04publication05.php?mode=lis&page_p=1&pid=6)
+
 
 
 ## Domestic Conference/Workshop Extended Abstracts (written in Korean)
@@ -136,6 +143,7 @@ permalink: /publication2020/
 * 최성록, 이재영, 이유철, 박승환, 유원필, **점층적 격자지도를 이용한 안전한 경로 계획**, 한국정보처리학회 추계학술발표대회 (KIPS-Fall), 2009년
 * 최성록, 김태민, 유원필, **가우스-균일 혼합확률분포의 매개변수 추정에 관한 고찰**, 한국정보처리학회 추계학술발표대회 (KIPS-Fall), 2009년
 * 유원필, 박승환, 이재영, 채희성, 한규서, 이유철, 최성록, **하이브리드 u-로봇 제어구조 및 u-City 환경 적용**, 한국로봇종합학술대회 (KRoC), 2008년
+
 
 
 ## B.S. and M.S. Theses (written in Korean)

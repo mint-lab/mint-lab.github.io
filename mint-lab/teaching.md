@@ -44,4 +44,3 @@ permalink: /teaching/
 
 ## Special Courses
 * Undergraduate: Database (2021-Fall), Natural Language Processing (2021-Spring, 2022-Spring)
-* Graduate: Active Cyber Security Colloquium (2025-Fall)
