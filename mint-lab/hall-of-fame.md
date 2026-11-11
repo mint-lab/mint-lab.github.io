@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Hall of Fame at SeoulTech Teaching Classes
+title : Hall of Fame at SEOULTECH Teaching Classes
 permalink: /hall-of-fame/
 ---
 

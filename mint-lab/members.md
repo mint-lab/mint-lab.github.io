@@ -10,7 +10,7 @@ permalink: /members/
   * Research Interests: Robot Navigation, 3D Computer Vision
   * E-mail: <sunglok@seoultech.ac.kr>
 * **Joongeup Kye** [[CV]](https://mint-lab.github.io/mint-lab/members/jekye_260126.pdf)
-  * Adjunct Professor / Research Fellow @ [KTL](https://www.ktl.re.kr/)
+  * Adjunct Professor (affiliated with [KTL](https://www.ktl.re.kr/))
   * E-mail: <jekeh66@naver.com>
 
 
@@ -33,6 +33,10 @@ permalink: /members/
   * Undergraduate Student (2026-Winter/Spring/Summer)
   * Research Interests: 3D Computer Vision, Spatial Intelligence
   * E-mail: [tmdvy1468+lab@gmail.com](mailto:tmdvy1468+lab@gmail.com)
+* **[Jinwoo Seo](https://jinwoo-sync.github.io/)**
+  * Master Student (December 2026 -; affiliated with [StradVision](https://stradvision.com/))
+  * Research Interests: Online Calibration
+  * E-mail: <sju5629@gmail.com>
 
 
 
@@ -46,7 +50,7 @@ permalink: /members/
   * Research Interests: Computer Vision
   * E-mail: <kimdaevvon@gmail.com>
 * **SeoHyun Park** [[Github]](https://github.com/xeohyun)
-  * Undergraduate Student (2026-Winter/Spring/Summer)
+  * Undergraduate Student (2026-Winter/Spring/Summer/Fall)
   * Research Interests: -
   * E-mail: <psh30108@seoultech.ac.kr>
 * **Kyoosuk Hwang** [[Github]](https://github.com/kstone-285)
@@ -58,14 +62,14 @@ permalink: /members/
   * Research Interests: AI Learning, Computer Vision
   * E-mail: <perrychoi1234@gmail.com>
 * **MinUk Jeong** [[Github]](https://github.com/jeongminuk)
-  * Undergraduate Student (2026-Summer)
+  * Undergraduate Student (2026-Summer/Fall)
   * Research Interests: Computer Vision
   * E-mail: <mu010221@naver.com>
 * **Chaeyun Kim** [[Github]](https://github.com/jinbaaaaaang)
-  * Undergraduate Student (2026-Summer)
+  * Undergraduate Student (2026-Summer/Fall)
   * Research Interests: Computer Vision
   * E-mail: <jinbaaaaang@gmail.com>
 * **Mingyu Jeon** [[Github]](https://github.com/Jadest03)
-  * Undergraduate Student (2026-Summer)
+  * Undergraduate Student (2026-Summer/Fall)
   * Research Interests: 3D Computer Vision
   * E-mail: <jadest03@seoultech.ac.kr>
