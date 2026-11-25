@@ -13,7 +13,7 @@ permalink: /visitors/
 
 
 ## Undergraduate Visitors
-* **Juhyun Bae** [[Github]](https://github.com/qowngus33) [[Blog]](https://kk-eezz.tistory.com)
+* [**Juhyun Bae**](https://qowngus33.github.io/) [[Github]](https://github.com/qowngus33) [[Blog]](https://kk-eezz.tistory.com)
   * Undergraduate Student (2022-Summer)
   * Contribution: Visual Parking Lot Mapping
   * E-mail: <qowngus33@gmail.com>
